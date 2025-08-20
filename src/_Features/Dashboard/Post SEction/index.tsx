@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { data } from "react-router-dom";
 
 interface NewsItem {
   date: string;
@@ -115,9 +116,16 @@ const NewsCard: React.FC<{ item: NewsItem }> = ({ item }) => {
   );
 };
 
+interface ChemicalTodayPageProps {
+  data: NewsItem[];
+}
+
 // ---------- Page Component ----------
-const ChemicalTodayPage: React.FC = () => {
+const ChemicalTodayPage: React.FC<ChemicalTodayPageProps> = ({ data }) => {
+  console.log(data)
+  const postData= data.homeScreenPostSection;
   return (
+    <div>
     <div className="min-h-screen bg-gray-50 ml-[5%] mr-[5%] mt-[5%]">
     {/* Banner */}
 <a
@@ -147,12 +155,12 @@ const ChemicalTodayPage: React.FC = () => {
         {/* Sidebar Ads */}
         <div className="space-y-3  space-x-[0%] w-[300px] h-[150px] ml-[1px] gap-0  display-flex justify-content-flex-start">
           <img
-            src="https://new-chemical-today.s3.amazonaws.com/advertisements/rockwell-1/rockwell-1/Hero_Banner_400x200px.jpg"
+            src={postData.advt1.image}
             alt="Ad1"
             className="rounded-none shadow "
           />
           <img
-            src="https://new-chemical-today.s3.amazonaws.com/advertisements/Cphi%20&%20Pmec%20-%20Side%20banner%20/Cphi%20&%20Pmec%20-%20Side%20banner%20/World-of-Chemicals-800x400.webp"
+            src={data.homeScreenPostSection.advt2.image}
             alt="Ad2"
             className="rounded-none shadow"
           />
@@ -186,10 +194,11 @@ const ChemicalTodayPage: React.FC = () => {
         ))}
         <button className="px-3 py-1 border rounded hover:bg-gray-100">»</button>
       </div>
-
-
-
-    <footer className="bg-[#e9eff7] py-0 px-4 sm:px-6 lg:px-8 font-['Inter']">
+    <div>
+   
+    </div> 
+      </div>
+       <footer className="bg-[#e9eff7] py-0 px-4 sm:px-6 lg:px-8 font-['Inter'] ml-[5%] mr-[5%]">
       <div className="max-w-auto mx-auto mt-[10px]">
         {/* Newsletter Section */}
         <div className="flex   justify-between mb-12 mr-[40px]">
@@ -355,7 +364,6 @@ const ChemicalTodayPage: React.FC = () => {
         </div>
       </div>
     </footer>
-
       </div>
   );
 };

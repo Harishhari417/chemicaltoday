@@ -1,0 +1,138 @@
+  "homeScreenPostSection": {
+    "advt1": {
+      "advt_type": {
+        "height": 400,
+        "id": "6878a67caee2dfa06d5545ce",
+        "name": "nynas-ad",
+        "width": 800
+      },
+      "contact_number": "11111111111",
+      "description": ".......",
+      "id": "6878a6aaaee2dfa06d5545cf",
+      "image": "https://new-chemical-today.s3.amazonaws.com/advertisements/Nynas Ad/Nynas Ad/Nynas_banner_800x400_pix.jpg",
+      "name": "Nynas Ad",
+      "organization_name": "Nynas Ad",
+      "redirect_url": "https://www.nynas.com/",
+      "subscription_end_date": "2025-08-21",
+      "subscription_start_date": "2025-07-17"
+    },
+    "advt2": {
+      "advt_type": {
+        "height": 267,
+        "id": "67876341aee2dfa06d553cd0",
+        "name": "Sharplex",
+        "width": 534
+      },
+      "contact_number": "11111111111",
+      "description": "..........",
+      "id": "678763c2aee2dfa06d553cd1",
+      "image": "https://new-chemical-today.s3.amazonaws.com/advertisements/Sharplex/Sharplex/Website_Side_banner_Ad_World_of_chemical-1.png",
+      "name": "Sharplex",
+      "organization_name": "Sharplex",
+      "redirect_url": "https://www.sharplex.us/",
+      "subscription_end_date": "2025-02-12",
+      "subscription_start_date": "2025-01-15"
+    },
+    "advt3": {
+      "advt_type": {
+        "height": 800,
+        "id": "6881f52eaee2dfa06d554631",
+        "name": "ENHESA Data Tech - Side Banner",
+        "width": 1600
+      },
+      "contact_number": "11111111111",
+      "description": ".........",
+      "id": "6881f572aee2dfa06d554632",
+      "image": "https://new-chemical-today.s3.amazonaws.com/advertisements/ENHESA Data Tech - Side Banner/ENHESA Data Tech - Side Banner/Website_banner_ad_800_240_1.jpeg",
+      "name": "ENHESA Data Tech - Side Banner",
+      "organization_name": "ENHESA Data Tech - Side Banner",
+      "redirect_url": "https://www.enhesadata.com/",
+      "subscription_end_date": "2025-07-24",
+      "subscription_start_date": "2025-07-24"
+    },
+    "horizontal_banner": {
+      "advt_type": {
+        "height": 270,
+        "id": "671f2928aee2dfa06d5539a4",
+        "name": "Associate partner top banner",
+        "width": 3210
+      },
+      "contact_number": "11111111111",
+      "description": "..........",
+      "id": "671f294baee2dfa06d5539a5",
+      "image": "https://new-chemical-today.s3.amazonaws.com/advertisements/Associate partner top banner/Associate partner top banner/Frame_230.jpg",
+      "name": "Associate partner top banner",
+      "organization_name": "Associate partner top banner",
+      "redirect_url": "https://www.ipua.in/",
+      "subscription_end_date": "2024-11-06",
+      "subscription_start_date": "2024-10-28"
+    },
+    "post1": {
+      "category": "Pharma",
+      "content": " :  The Department of Pharmaceuticals is driving India’s pharmaceutical self-reliance through three major initiatives — the Production Linked Incentive (PLI) Scheme for Bulk Drugs, the PLI Scheme for Pharmaceuticals, and the Promotion of Research and Innovation in Pharma MedTech Sector (PRIP): Union Minister of State for Chemicals and Fertilizers Smt. Anupriya Patel informed the Rajya Sabha today.\r\n\r\nKey initiatives include:\r\nThe PLI Scheme for Bulk Drugs has made significant strides with an outlay of ₹6,940 crore. A total of 32 companies have been selected to undertake 48 projects, encompassing 33 Active Pharmaceutical Ingredients (APIs), Drug Intermediates (DIs), and Key Starting Materials (KSMs). The investment has reached ₹4,709 crore, exceeding the committed ₹3,938.5 crore, which has led to the creation of domestic capacity for 26 products. Sales under this scheme have amounted to ₹1,962 crore, with exports contributing ₹479 crore, resulting in import savings of ₹1,483 crore.\r\n\r\nIn parallel, the PLI Scheme for Pharmaceuticals boasts a substantial outlay of ₹15,000 crore and has selected 55 companies to focus on high-value medicines, including biopharmaceuticals, generics, vaccines, and APIs. The total investment has soared to ₹38,543 crore, significantly surpassing the committed ₹17,275 crore. This initiative has enhanced capacity at 28 greenfield sites, with total sales reaching an impressive ₹2,89,606 crore, where exports alone account for ₹1,86,710 crore. Moreover, sales of APIs, DIs, and KSMs stand at ₹62,966 crore, with exports at ₹38,868 crore.\r\n\r\nAdditionally, the PRIP (Promotion of Research and Innovation in Pharma MedTech Sector) aims to foster innovation with an outlay of ₹5,000 crore. So far, seven Centres of Excellence have been established with an investment of ₹700 crore at NIPERs, supporting a total of 106 research projects approved until July 2025. This initiative signifies a commitment to advancing research and development within the pharmaceutical and MedTech sectors.\r\n\r\nThe Minister also highlighted global integration efforts. The WHO Global Traditional Medicine Centre in Jamnagar has been established as an international hub, and an MoU signed with the WHO in May 2025 will help standardise coding of Ayush interventions worldwide.\r\n\r\n",
+      "country": "India",
+      "created_at": "2025-08-20 04:54:34",
+      "created_by": "Admin",
+      "id": "68a5550aaee2dfa06d55475b",
+      "image_caption": "Source: Department of Pharmaceuticals. ",
+      "mob_image_url": "https://new-chemical-today.s3.amazonaws.com/News/PLI schemes and PRIP Accelerate India’s Pharma Self-Reliance/Source_Department_of_Pharmaceuticals.__Web_Image_3_1.webp",
+      "news_type": "Posts",
+      "published_by": "Chemical Today",
+      "published_date": "2025-08-20",
+      "thumbnail_image_url": "https://new-chemical-today.s3.amazonaws.com/News/PLI schemes and PRIP Accelerate India’s Pharma Self-Reliance/Source_Department_of_Pharmaceuticals.__Web_Image_3_1.webp",
+      "title": "PLI schemes and PRIP Accelerate India’s Pharma Self-Reliance",
+      "visibility": true,
+      "web_image_url": "https://new-chemical-today.s3.amazonaws.com/News/PLI schemes and PRIP Accelerate India’s Pharma Self-Reliance/Source_Department_of_Pharmaceuticals.__Web_Image_3_1.webp"
+    },
+    "post2": {
+      "category": "Plastic and Polymers",
+      "content": " :  Chemours announced that it has entered into strategic agreements with India-based SRF Limited to expand global supply for fluoropolymers and fluoroelastomers by 2026. SRF, a diversified chemical manufacturer, produces industrial and specialty intermediates including fluoropolymers.\r\n\r\nThe collaboration enhances Chemours’ supply chain presence, adds operational flexibility, and secures access to production capacity for materials essential to industries such as semiconductors, automotive, aerospace, chemical processing and energy. By aligning SRF’s manufacturing capabilities with Chemours’ product technology and quality standards, the partnership aims to ensure consistent availability of advanced materials without requiring upfront capital investment from Chemours.\r\n\r\n“This arrangement with SRF exemplifies our Pathway to Thrive strategy as we continue to shift our product mix to higher value applications, enhancing our position as a trusted supplier paired with our commitment to responsible manufacturing practices,” said Denise Dignam, Chemours President and CEO.\r\n\r\n“This strategic relationship with The Chemours Company is a testament to SRF’s proven capabilities in complex chemical production,” said Prashant Yadav, President and CEO – Fluorochemicals and Technical Textiles Businesses, SRF Limited. “We are proud to reinforce our position as a trusted manufacturer of advanced materials and believe this marks the beginning of a strong relationship with a global leader in performance chemicals and advanced fluoropolymers.”\r\n\r\nThe agreements will supplement Chemours’ global operations and broaden supply flexibility, positioning both companies to meet growing international demand for essential fluoropolymer applications.\r\n\r\n",
+      "country": "USA/ India",
+      "created_at": "2025-08-20 07:18:45",
+      "created_by": "Admin",
+      "id": "68a576d5aee2dfa06d55475d",
+      "image_caption": "Source: Chemours",
+      "mob_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Chemours_and_SRF_India_Partner_to_Expand_Fluoropolymer_Supply_by_2026__20250820071844/Source:_Chemours.webp",
+      "news_type": "Posts",
+      "published_by": "Chemical Today",
+      "published_date": "2025-08-20",
+      "thumbnail_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Chemours_and_SRF_India_Partner_to_Expand_Fluoropolymer_Supply_by_2026__20250820071844/Source:_Chemours.webp",
+      "title": "Chemours and SRF India Partner to Expand Fluoropolymer Supply by 2026 ",
+      "visibility": true,
+      "web_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Chemours_and_SRF_India_Partner_to_Expand_Fluoropolymer_Supply_by_2026__20250820071844/Source:_Chemours.webp"
+    },
+    "post3": {
+      "category": "Plastic and Polymers",
+      "content": " :  Sumitomo Chemical has initiated operations at a newly built pilot facility in the Sodegaura area of its Chiba Works, where it will test its proprietary technology for producing propylene directly from ethanol. Supported by Japan’s NEDO Green Innovation Fund, the project is designed to help the petrochemical sector transition toward alternative feedstocks. The company plans to advance demonstration activities with the goal of commercializing and licensing the process by the early 2030s.\r\n\r\nPropylene remains one of the most widely used basic chemicals and in Japan is mainly derived from naphtha, a fossil-based raw material. Ethanol, by contrast, can be obtained from renewable sources such as sugarcane, corn, and pulp, as well as from combustible waste. With industrial-scale ethanol production technologies progressing, the feedstock is increasingly being considered as a replacement for fossil resource-derived chemicals.\r\n\r\nThe newly developed process allows for the direct conversion of ethanol to propylene in a single step, without generating intermediates such as ethylene. This approach is expected to lower production costs and additionally produces hydrogen as a by-product. When bioethanol is used, the process can also yield bio-derived hydrogen, offering further sustainability benefits.\r\n\r\nSumitomo Chemical will continue gathering technical data needed for industrialization while promoting polypropylene derived from propylene obtained through this method. Alongside this, the company intends to expand its technology licensing and catalyst sales. The broader strategy seeks to shift petrochemical operations toward low-carbon value creation and position the firm for green transformation initiatives beyond 2030, including circular resource chains and CO2 reduction monetization. The Sumitomo Chemical Group stated it will remain focused on advancing technologies that contribute to a sustainable society.\r\n",
+      "country": "Japan",
+      "created_at": "2025-08-20 07:57:33",
+      "created_by": "Admin",
+      "id": "68a57fedaee2dfa06d554760",
+      "image_caption": "Sumitomo Chemical begins pilot testing for ethanol-to-propylene technology.",
+      "mob_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Sumitomo_Chemical_Advances_Ethanol-to-Propylene_Pilot_in_Japan_20250820075733/Sumitomo_Chemical_begins_pilot_testing_for_ethanol-to-propylene_technology..webp",
+      "news_type": "Posts",
+      "published_by": "Chemical Today",
+      "published_date": "2025-08-20",
+      "thumbnail_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Sumitomo_Chemical_Advances_Ethanol-to-Propylene_Pilot_in_Japan_20250820075733/Sumitomo_Chemical_begins_pilot_testing_for_ethanol-to-propylene_technology..webp",
+      "title": "Sumitomo Chemical Advances Ethanol-to-Propylene Pilot in Japan",
+      "visibility": true,
+      "web_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Sumitomo_Chemical_Advances_Ethanol-to-Propylene_Pilot_in_Japan_20250820075733/Sumitomo_Chemical_begins_pilot_testing_for_ethanol-to-propylene_technology..webp"
+    },
+    "post4": {
+      "category": "Water Treatment",
+      "content": " :  Pentair plc has entered into a definitive agreement to acquire Hydra-Stop LLC from Madison Industries for about $290 million in cash, subject to customary adjustments. Factoring in roughly $50 million in expected tax benefits, the net purchase price stands at approximately $240 million.\r\n\r\nHydra-Stop, based in Burr Ridge, Illinois, is a leading manufacturer of insertion valves and line stop systems. The company employs over 50 people and generates nearly all its revenue in the United States. It is expected to deliver about $50 million in revenue for 2025, with an anticipated return on sales of around 30 percent.\r\n\r\n“This strategic acquisition will help accelerate our growth initiatives for our commercial and infrastructure business by supporting municipalities and their service providers in addressing critical water issues through differentiated solutions that help maintain the flow of water in essential applications while preventing water loss,” said De’Mon Wiggins, Executive Vice President and President, Pentair Flow. “We believe the Hydra-Stop culture and priorities are highly aligned with our efforts to help the world sustainably move water, life’s most essential resource, and look forward to welcoming the Hydra-Stop employees to Pentair.”\r\n\r\nFollowing completion, Hydra-Stop will operate under Pentair’s Commercial and Infrastructure unit within its Flow segment. The transaction is expected to close by the end of 2025, pending regulatory approvals and other customary conditions.\r\n",
+      "country": "UK",
+      "created_at": "2025-08-20 08:47:31",
+      "created_by": "Admin",
+      "id": "68a58ba3aee2dfa06d554761",
+      "image_caption": "Pentair expands water infrastructure solutions with Hydra-Stop acquisition.",
+      "mob_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Pentair_to_Acquire_Hydra-Stop_in_$290_Million_Deal_20250820084731/Pentair_expands_water_infrastructure_solutions_with_Hydra-Stop_acquisition..webp",
+      "news_type": "Posts",
+      "published_by": "Chemical Today",
+      "published_date": "2025-08-20",
+      "thumbnail_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Pentair_to_Acquire_Hydra-Stop_in_$290_Million_Deal_20250820084731/Pentair_expands_water_infrastructure_solutions_with_Hydra-Stop_acquisition..webp",
+      "title": "Pentair to Acquire Hydra-Stop in $290 Million Deal",
+      "visibility": true,
+      "web_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Pentair_to_Acquire_Hydra-Stop_in_$290_Million_Deal_20250820084731/Pentair_expands_water_infrastructure_solutions_with_Hydra-Stop_acquisition..webp"
+    }
+  },
