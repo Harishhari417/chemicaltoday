@@ -42,6 +42,9 @@ const TopSection: React.FC = () => {
   );
 
   return (
+    <div className="overflow-x-hidden">
+ 
+
     <div className="flex flex-col bg-white border-b border-gray-300 font-sans my-0">
       {/* --- TOP SECTION --- */}
       <div className="flex items-center justify-between px-[100px] pt-[30px] pb-[60px] mb-[0px]">
@@ -158,6 +161,7 @@ const TopSection: React.FC = () => {
         </div>
         
       </nav>
+    </div>
     </div>
   );
 };

@@ -1,3 +1,246 @@
+{
+  "digitalizationSection": {
+    "advt1": {
+      "advt_type": {
+        "height": 400,
+        "id": "6711dce5aee2dfa06d553923",
+        "name": "enquiry-no-7",
+        "width": 800
+      },
+      "contact_number": "11111111111",
+      "description": "..........",
+      "id": "6711dd07aee2dfa06d553924",
+      "image": "https://new-chemical-today.s3.amazonaws.com/advertisements/enquiry-no-7/enquiry-no-7/enquiry_7.jpg",
+      "name": "enquiry-no-7",
+      "organization_name": "enquiry-no-7",
+      "redirect_url": "https://www.worldofchemicals.com/contact.html",
+      "subscription_end_date": "2024-11-14",
+      "subscription_start_date": "2024-10-18"
+    },
+    "advt2": {
+      "advt_type": {
+        "height": 400,
+        "id": "66e2c6c41c33506fb1181df1",
+        "name": "Stock Available EN-5",
+        "width": 800
+      },
+      "contact_number": "11111111111",
+      "description": "........",
+      "id": "66e2c7121c33506fb1181df3",
+      "image": "https://new-chemical-today.s3.amazonaws.com/advertisements/Stock Available EN-5/Stock Available EN-5/Stock_Available_EN-5.jpg",
+      "name": "Stock Available EN-5",
+      "organization_name": "Stock Available EN-5",
+      "redirect_url": "https://www.worldofchemicals.com/contact.html",
+      "subscription_end_date": "2024-10-12",
+      "subscription_start_date": "2024-09-12"
+    },
+    "advt3": {
+      "advt_type": {
+        "height": 400,
+        "id": "6880b126aee2dfa06d55461e",
+        "name": "Cphi & Pmec - Side banner ",
+        "width": 800
+      },
+      "contact_number": "11111111111",
+      "description": ".......",
+      "id": "6880b149aee2dfa06d55461f",
+      "image": "https://new-chemical-today.s3.amazonaws.com/advertisements/Cphi & Pmec - Side banner /Cphi & Pmec - Side banner /World-of-Chemicals-800x400.webp",
+      "name": "Cphi & Pmec - Side banner ",
+      "organization_name": "Cphi & Pmec - Side banner ",
+      "redirect_url": "https://frw.ad/pAeUN",
+      "subscription_end_date": "2025-08-23",
+      "subscription_start_date": "2025-07-23"
+    },
+    "news1": {
+      "category": "None",
+      "content": " :  Wood, a global consulting and engineering firm, has secured a $50 million extension to its contract for maintenance services at Ampol’s Lytton refinery in Brisbane, Australia. Under the renewed two-year agreement, Wood will continue providing maintenance management, multi-disciplinary technical support, and brownfield modification field services to ensure safe, reliable, and efficient fuel production at the facility.\r\n\r\n The company will also introduce its proprietary digital maintenance tool, maintAI, to optimise strategies through AI-driven data analysis, helping to prioritise critical activities, streamline non-essential work, and improve asset reliability. The Lytton refinery plays a key role in Australia’s domestic energy supply, with a processing capacity of 6.5 billion litres of crude oil annually.\r\n\r\n“We’ve proudly worked alongside Ampol for over a decade, delivering quality maintenance solutions at Lytton to ensure the reliability of this nationally significant refinery. This contract extension is testament to the strength and expertise of our team and their continued commitment to supporting Ampol’s critical refinery operations,” said Ralph Ellis, President of Asia Pacific, Operations at Wood.\r\n\r\nThe reimbursable contract will be supported by more than 150 local employees and executed by Wood’s Operations business.\r\n\r\n",
+      "country": "UK",
+      "created_at": "2025-08-11 08:41:12",
+      "created_by": "Admin",
+      "id": "6899aca8aee2dfa06d5546f7",
+      "image_caption": "Ampol extends Wood contract for Lytton refinery maintenance and AI-based optimisation.",
+      "mob_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Wood_Secures_$50_Million_Extension_for_Ampol_Lytton_Refinery_Maintenance_20250811084112/Ampol_extends_Wood_contract_for_Lytton_refinery_maintenance_and_AI-based_optimisation..webp",
+      "news_type": "Digitalization",
+      "published_by": "Chemical Today",
+      "published_date": "2025-08-11",
+      "thumbnail_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Wood_Secures_$50_Million_Extension_for_Ampol_Lytton_Refinery_Maintenance_20250811084112/Ampol_extends_Wood_contract_for_Lytton_refinery_maintenance_and_AI-based_optimisation..webp",
+      "title": "Wood Secures $50 Million Extension for Ampol Lytton Refinery Maintenance",
+      "visibility": true,
+      "web_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Wood_Secures_$50_Million_Extension_for_Ampol_Lytton_Refinery_Maintenance_20250811084112/Ampol_extends_Wood_contract_for_Lytton_refinery_maintenance_and_AI-based_optimisation..webp"
+    },
+    "news2": {
+      "category": "None",
+      "content": " :  TotalEnergies and Emerson’s Aspen Technology division have entered into a strategic agreement to roll out real-time data collection systems across TotalEnergies’ global industrial network. The initiative aims to support faster decision-making and improve operational efficiency, energy management, and environmental impact using artificial intelligence (AI) and digital technologies.\r\n\r\nUnder the partnership, TotalEnergies will implement Emerson’s AspenTech Inmation™ platform, an industrial data infrastructure designed to collect and centralize millions of real-time data points securely. The platform will offer unified data access across various company operations, enabling scalable AI deployment and digital process optimization.\r\n\r\nThe two-year deployment plan also includes Emerson’s advanced process control tools. The goal is to enable TotalEnergies to detect operational anomalies better, reduce energy usage, improve safety, and accelerate AI integration across its industrial assets.\r\n\r\n“At TotalEnergies, digital technology is a key enabler of our transformation toward a more sustainable and efficient energy future. Our collaboration with Emerson demonstrates how advanced technologies such as Inmation help us optimize operations, reduce emissions, and generate long-term value. This collaboration is a sign of our intention to turn data and digital tech into the hallmarks of our facilities’ industrial excellence,” said Namita Shah, President of OneTech at TotalEnergies.\r\n\r\n“Emerson’s Aspen Technology business has worked with TotalEnergies for almost 30 years, and we’re excited to continue our collaboration by supporting their operational and sustainability objectives with our digital technologies. The powerful combination of AI and our industrial data fabric solution will serve to accelerate TotalEnergies’ mission,” said Vincent Servello, President of Emerson’s Aspen Technology business.",
+      "country": "France",
+      "created_at": "2025-07-23 05:46:40",
+      "created_by": "Admin",
+      "id": "68807740aee2dfa06d554618",
+      "image_caption": "TotalEnergies to deploy AspenTech Inmation for real-time industrial data access.",
+      "mob_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Emerson_and_TotalEnergies_Form_Alliance_for_Real-Time_Data_Integration_20250723054640/TotalEnergies_to_deploy_AspenTech_Inmation_for_real-time_industrial_data_access..webp",
+      "news_type": "Digitalization",
+      "published_by": "Chemical Today",
+      "published_date": "2025-07-23",
+      "thumbnail_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Emerson_and_TotalEnergies_Form_Alliance_for_Real-Time_Data_Integration_20250723054640/TotalEnergies_to_deploy_AspenTech_Inmation_for_real-time_industrial_data_access..webp",
+      "title": "Emerson and TotalEnergies Form Alliance for Real-Time Data Integration",
+      "visibility": true,
+      "web_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Emerson_and_TotalEnergies_Form_Alliance_for_Real-Time_Data_Integration_20250723054640/TotalEnergies_to_deploy_AspenTech_Inmation_for_real-time_industrial_data_access..webp"
+    },
+    "news3": {
+      "category": "None",
+      "content": " :  SRF Limited, a diversified chemical manufacturing company headquartered in India, has expanded its collaboration with Tenable by adopting the Tenable One Exposure Management Platform. This strategic upgrade strengthens SRF’s cybersecurity posture by enabling a unified view of vulnerabilities across both Information Technology (IT) and Operational Technology (OT) environments. The move comes as manufacturers face heightened threats from ransomware, phishing, and supply chain breaches, often originating from IT environments but targeting critical OT systems. SRF’s new approach will help balance operational agility with proactive threat management as part of its broader SecureOT initiative.\r\n\r\n“The biggest challenge in our industry lies in proactively outpacing the relentless evolution of cyber threats,” said Sanjay Rao, President and Chief Information Officer, SRF Limited. “The escalating frequency of ransomware, phishing, and supply chain attacks, which now target both IT and OT environments, demands a delicate balance of robust security measures without compromising the agility and user experience vital for business operations.”\r\n\r\nTenable One enables SRF to benchmark its cybersecurity maturity, assess vulnerabilities in real-time, and integrate insights from its industrial systems to guide strategic decisions. This centralised view is expected to improve compliance with global cybersecurity frameworks and increase the resilience of factory-floor operations.\r\n\r\n“Cybersecurity is not about eliminating all vulnerabilities, it’s about knowing which ones matter most and acting before attackers do,” said Rajeev Verma, Chief Information Security Officer, SRF Limited. “Tenable has helped us continuously assess and prioritise IT risks for years. We are now extending that confidence into OT with Tenable One, gaining a unified view of our exposure, whether at headquarters or on the factory floor.”\r\n\r\nAs part of the deployment, SRF will implement a central OT security monitoring centre, strengthen network segmentation, and introduce enhanced threat detection. The initiative highlights the company’s intent to safeguard its digital operations amid growing regulatory expectations and cyber risks.\r\n\r\n“SRF is setting a new standard for cybersecurity in manufacturing by adopting a proactive, unified approach to risk management,” said Nigel Ng, Senior Vice President, Tenable, Asia Pacific and Japan. “As cyber threats targeting industrial systems grow more rampant, SRF is leading by example by unifying security visibility, insight and action across the attack surface, empowering themselves to isolate and eradicate priority cyber exposures across the enterprise.”\r\n",
+      "country": "India",
+      "created_at": "2025-07-17 08:50:11",
+      "created_by": "Admin",
+      "id": "6878b943aee2dfa06d5545d4",
+      "image_caption": "SRF adopts Tenable One to unify cyber risk management across manufacturing operations in India.",
+      "mob_image_url": "https://new-chemical-today.s3.amazonaws.com/News/SRF_Enhances_Industrial_Cybersecurity_with_Tenable_One_Platform_20250717085011/SRF_adopts_Tenable_One_to_unify_cyber_risk_management_across_manufacturing_operations_in_India..webp",
+      "news_type": "Digitalization",
+      "published_by": "Chemical Today",
+      "published_date": "2025-07-17",
+      "thumbnail_image_url": "https://new-chemical-today.s3.amazonaws.com/News/SRF_Enhances_Industrial_Cybersecurity_with_Tenable_One_Platform_20250717085011/SRF_adopts_Tenable_One_to_unify_cyber_risk_management_across_manufacturing_operations_in_India..webp",
+      "title": "SRF Enhances Industrial Cybersecurity with Tenable One Platform",
+      "visibility": true,
+      "web_image_url": "https://new-chemical-today.s3.amazonaws.com/News/SRF_Enhances_Industrial_Cybersecurity_with_Tenable_One_Platform_20250717085011/SRF_adopts_Tenable_One_to_unify_cyber_risk_management_across_manufacturing_operations_in_India..webp"
+    },
+    "news4": {
+      "category": "None",
+      "content": " :  Emerson has introduced the Ovation™ Virtual Advisor, marking the first generative AI solution embedded within an automation platform designed specifically for the power and water industries. The tool, part of Emerson’s Ovation 4.0 Automation Platform, provides real-time insights to improve efficiency, detect system issues, forecast maintenance, and support decision-making. The Ovation Virtual Advisor features localized GenAI that offers natural language interaction for system documentation, diagnostics, maintenance support, and performance optimization. It integrates Emerson’s sector expertise with AI tools to provide users with tailored recommendations and faster access to system knowledge.\r\n\r\n“As they navigate greater demand, complexity, and climate variability, operators of today’s critical infrastructure need intelligent systems to deliver reliable power and clean water,” said Bob Yeager, president of Emerson’s power and water solutions business. “Using GenAI, our Ovation Virtual Advisor will help customers more efficiently manage these essential systems through clear operational awareness, automated routine tasks, and advanced data analysis. Intelligent systems help improve reliability and extend the life of existing infrastructure, paving the way for more consistent, sustainable operations.”\r\n\r\nThe advisor is designed with security in mind, relying on pre-trained local AI models built using Emerson and customer data. These models capture control-layer behaviors and can be enhanced using operational feedback and industry-specific inputs, allowing the system to deliver insights that support safer, smarter operations.\r\n",
+      "country": "USA",
+      "created_at": "2025-07-16 08:55:25",
+      "created_by": "Admin",
+      "id": "687768fdaee2dfa06d5545be",
+      "image_caption": "Emerson launches AI-enabled advisor for power and water automation systems.",
+      "mob_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Emerson Unveils GenAI Virtual Advisor for Power and Water Systems/Emerson_launches_AI-enabled_advisor_for_power_and_water_automation_systems._image_140_6.webp",
+      "news_type": "Digitalization",
+      "published_by": "Chemical Today",
+      "published_date": "2025-07-16",
+      "thumbnail_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Emerson Unveils GenAI Virtual Advisor for Power and Water Systems/Emerson_launches_AI-enabled_advisor_for_power_and_water_automation_systems._image_140_6.webp",
+      "title": "Emerson Unveils GenAI Virtual Advisor for Power and Water Systems",
+      "visibility": true,
+      "web_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Emerson Unveils GenAI Virtual Advisor for Power and Water Systems/Emerson_launches_AI-enabled_advisor_for_power_and_water_automation_systems._image_140_6.webp"
+    }
+  },
+  "equipmentSection": {
+    "equipment1": {
+      "category": "None",
+      "content": " :  Shimadzu announced the launch of a new particle analysis system in Japan and international markets, designed for the study of microplastics. It is the first analytical tool globally that can automatically determine both the mass and volume of microplastics using these microscopes. The system operates with Shimadzu’s dedicated software “AMsolution,” which now includes a Particle Analysis Program developed through research led by Associate Professor Tomoya Kataoka of Ehime University. The software applies theoretical formulas to calculate mass and volume from particle area measurements.\r\n\r\nShimadzu’s AIRsight, combining infrared and Raman spectroscopy, and AIMsight, capable of automatically measuring microscopic objects through infrared light, are central to this system. These instruments have long supported contaminant analysis and quality control across sectors such as chemistry, electronics, and transport, and are now increasingly applied to microplastics research.\r\n\r\nThe company has also advanced microplastics studies through instruments like its Fourier transform infrared spectroscopy system for plastic type discrimination, particle imaging systems, and the MAP-100 device for sample preparation. The new system will expand this lineup, supporting broader environmental research and fieldwork applications.\r\n\r\nAccording to Shimadzu, the system features three main advantages. First, it introduces the world’s first automated function for mass and volume analysis of microplastics through infrared and Raman chemical imaging. Second, it enables rapid and precise particle analysis with high-speed mapping that adjusts measurement accumulation depending on the presence of particles. Finally, the built-in Spectrum Advisor function provides corrective measures by comparing spectra with references, automating detection and measurement for easier use by non-specialists.\r\n\r\nContact:\r\nShimadzu Corporation\r\n1, Nishinokyo Kuwabara-cho, Nakagyo-ku, \r\nKyoto 604-8511, Japan\r\nTel : +81-75-823-1111\r\nWeb: www.shimadzu.com\r\n",
+      "country": "Japan",
+      "created_at": "2025-08-18 04:47:50",
+      "created_by": "Admin",
+      "id": "68a2b076aee2dfa06d554741",
+      "image_caption": "AIMsight infrared microscope connected to IRXross Fourier transform infrared spectrophotometer. (Source: Shimadzu)",
+      "mob_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Shimadzu_Unveils_Global_Particle_Analysis_System_for_Microplastics_20250818044750/AIMsight_infrared_microscope_connected_to_IRXross_Fourier_transform_infrared_spectrophotometer._(Sou.webp",
+      "news_type": "Equipments",
+      "published_by": "Chemical Today",
+      "published_date": "2025-08-18",
+      "thumbnail_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Shimadzu_Unveils_Global_Particle_Analysis_System_for_Microplastics_20250818044750/AIMsight_infrared_microscope_connected_to_IRXross_Fourier_transform_infrared_spectrophotometer._(Sou.webp",
+      "title": "Shimadzu Unveils Global Particle Analysis System for Microplastics",
+      "visibility": true,
+      "web_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Shimadzu_Unveils_Global_Particle_Analysis_System_for_Microplastics_20250818044750/AIMsight_infrared_microscope_connected_to_IRXross_Fourier_transform_infrared_spectrophotometer._(Sou.webp"
+    },
+    "equipment2": {
+      "category": "None",
+      "content": " :  TESTA Analytical has introduced the BI-MwA Molecular Weight Analyzer, a compact static light scattering detector designed for laboratories seeking a straightforward solution for determining the absolute average molecular weight of macromolecules.\r\n\r\nThe instrument is targeted at educational facilities and labs processing a limited number of samples, eliminating the complexity of a full GPC/SEC system. Users can quickly operate the device with minimal training by injecting samples into a low-volume, seven-angle flow cell. The built-in high-sensitivity CCD detector collects scattered light, while intuitive software extrapolates the results to zero angle for accurate molecular weight measurement.\r\n\r\nThe system’s vertical flow path prevents bubble formation, a common issue in multiple-angle light scattering instruments. In addition, the conical design of the flow cell ensures that previously analyzed samples are easily flushed, reducing the risk of contamination.\r\n\r\nTESTA Analytical said the BI-MwA system combines ease of use with reliable results, offering a practical option for labs requiring efficient molecular weight analysis without large-scale infrastructure.\r\n\r\nContact:\r\nTesta Analytical Solutions e.K.\r\nSophienstraße 5\r\n12203 Berlin, Germany  \r\nTel: +49-30-864-24076\r\nEmail: info@testa-analytical.com\r\nWeb: www.testa-analytical.com\r\n",
+      "country": "Germany",
+      "created_at": "2025-08-16 05:19:57",
+      "created_by": "Admin",
+      "id": "68a014fdaee2dfa06d554737",
+      "image_caption": "TESTA Analytical debuts BI-MwA for simplified molecular weight analysis.",
+      "mob_image_url": "https://new-chemical-today.s3.amazonaws.com/News/TESTA_Analytical_Launches_Compact_BI-Mwa_Detector_for_Molecular_Weight_Analysis_20250816051957/TESTA_Analytical_debuts_BI-MwA_for_simplified_molecular_weight_analysis..webp",
+      "news_type": "Equipments",
+      "published_by": "Chemical Today",
+      "published_date": "2025-08-16",
+      "thumbnail_image_url": "https://new-chemical-today.s3.amazonaws.com/News/TESTA_Analytical_Launches_Compact_BI-Mwa_Detector_for_Molecular_Weight_Analysis_20250816051957/TESTA_Analytical_debuts_BI-MwA_for_simplified_molecular_weight_analysis..webp",
+      "title": "TESTA Analytical Launches Compact BI-Mwa Detector for Molecular Weight Analysis",
+      "visibility": true,
+      "web_image_url": "https://new-chemical-today.s3.amazonaws.com/News/TESTA_Analytical_Launches_Compact_BI-Mwa_Detector_for_Molecular_Weight_Analysis_20250816051957/TESTA_Analytical_debuts_BI-MwA_for_simplified_molecular_weight_analysis..webp"
+    },
+    "equipment3": {
+      "category": "None",
+      "content": " :  The development of gasketed plate heat exchangers, specifically tailored for hygienic applications, is transforming processing in the food, beverage, and pharmaceutical sectors. Alfa Laval’s Hygienic line is designed to exceed hygiene requirements while ensuring top-tier performance, safety, and reliability.\r\n\r\n“With food safety at the top of the global processing agenda, hygiene has been put firmly in the spotlight,” said Margareta Clementson, launch manager for the Hygienic line. “The big difference between this equipment and our competitors’ is that the plates for these heat exchangers are specifically designed for hygienic applications. They are not just standard industrial plates being adapted for use; they are set up to optimize the distribution of fluid to ensure maximum hygiene and efficiency and are designed to be easily cleaned themselves.”\r\n\r\nMargareta added, “The price of not getting it right with hygiene is high, and with the Hygienic line, Alfa Laval is developing a unique portfolio of gasketed plate heat exchangers that ensure our customers do get it right.” She also emphasized the line’s sustainability benefits: “We ensure our technology saves water, energy, and chemicals without compromising on thermal efficiency.”\r\n\r\nThe thinplate technology embedded in the design reduces CO2 emissions while maintaining durability comparable to thicker, older alternatives. Customers from industries such as dairy, food, beverages, brewery, biotech, pharmaceutical, and personal care have reported significant operational and sustainability gains.\r\n\r\nSince the first product launch in November 2021, innovation has defined the Hygienic line. Features like EquiFlow™ optimize media flow for uniform heat treatment with minimal fouling. SmoothPort™ positions the gasket at the plate edge to prevent build-up, while CleanChannel™ in the heat transfer area enhances cleanability and drainability, reducing downtime and maintenance costs.\r\n\r\nMargareta noted, “It is exciting to be working in a company that is leading the way with these innovations.” The launch process continues to evolve, with Alfa Laval refining designs based on customer feedback. “The response has been overwhelmingly positive, whether from new plants or those upgrading existing sites,” she said. “The cleanability factor has been a significant plus. Our customers appreciate the combination of efficiency, sustainability, and food safety. This comprehensive package makes the Hygienic line an exciting proposition in the market.”\r\n\r\nContact:\r\nAlfa Laval Corporate AB\r\nRudeboksvägen 1\r\nSE-226 55 Lund, Sweden\r\nTel: +46 46 36 65 00\r\nEmail: margareta.clementson@alfalaval.com\r\nWeb: www.alfalaval.com\r\n\r\n",
+      "country": "Sweden ",
+      "created_at": "2025-08-14 11:43:37",
+      "created_by": "Admin",
+      "id": "689dcbe9aee2dfa06d554731",
+      "image_caption": "Alfa Laval",
+      "mob_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Alfa_Laval’s_Hygienic_Line_Sets_New_Benchmark_for_Food_and_Pharma_Safety_20250814114337/Alfa_Laval.webp",
+      "news_type": "Equipments",
+      "published_by": "Chemical Today",
+      "published_date": "2025-08-14",
+      "thumbnail_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Alfa_Laval’s_Hygienic_Line_Sets_New_Benchmark_for_Food_and_Pharma_Safety_20250814114337/Alfa_Laval.webp",
+      "title": "Alfa Laval’s Hygienic Line Sets New Benchmark for Food and Pharma Safety",
+      "visibility": true,
+      "web_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Alfa_Laval’s_Hygienic_Line_Sets_New_Benchmark_for_Food_and_Pharma_Safety_20250814114337/Alfa_Laval.webp"
+    },
+    "equipment4": {
+      "category": "None",
+      "content": " :  Titan Enterprises, a UK-based manufacturer of high-performance flow measurement solutions, is drawing attention to the often-overlooked importance of Total Cost of Ownership (TCO) when selecting industrial flow meters. The company points out that while purchase price remains a visible factor, long-term performance, maintenance, and operational reliability ultimately define value.\r\n\r\nAccording to Trevor Forster, Managing Director at Titan Enterprises, purchase price can represent only a small portion of the overall cost. “Downtime, maintenance, recalibration, and replacement cycles add up – and that’s where Titan’s flow meters stand apart,” he notes.\r\n\r\nTitan attributes its lower TCO advantage to several key design and engineering factors. Rugged, chemical-resistant construction ensures longer operational life in harsh environments, while non-invasive designs reduce the risk of clogging or wear. Low calibration drift minimises service intervals, and responsive OEM support helps customers avoid prolonged downtime.\r\n\r\nThe company also encourages procurement and engineering teams to consider real-world operational factors beyond technical specifications. These include equipment longevity, downtime implications for production, maintenance costs, and the availability of technical support and spare parts. Forster recalls a recent case where a customer returned an oval gear flowmeter for repair, only to discover it had been in service for 15 years – a testament, he says, to Titan’s build quality.\r\n\r\nTitan’s product range reflects this TCO-first approach. Turbine flow meters deliver cost-effective performance for clean liquids with high repeatability, ultrasonic flow meters offer long-life, low-maintenance accuracy for varied flow conditions, and oval gear meters provide durability for viscous or chemically aggressive fluids.\r\n\r\nBy prioritising lifecycle value over initial cost, Titan Enterprises positions its flow meters as reliable, cost-efficient investments for industries seeking performance and longevity.\r\n\r\n",
+      "country": "UK",
+      "created_at": "2025-08-14 10:46:46",
+      "created_by": "Admin",
+      "id": "689dbe96aee2dfa06d55472f",
+      "image_caption": "Titan Enterprises",
+      "mob_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Titan_Enterprises_Highlights_Lifecycle_Value_in_Flow_Measurement_Systems_20250814104645/Titan_Enterprises.webp",
+      "news_type": "Equipments",
+      "published_by": "Chemical Today",
+      "published_date": "2025-08-14",
+      "thumbnail_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Titan_Enterprises_Highlights_Lifecycle_Value_in_Flow_Measurement_Systems_20250814104645/Titan_Enterprises.webp",
+      "title": "Titan Enterprises Highlights Lifecycle Value in Flow Measurement Systems",
+      "visibility": true,
+      "web_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Titan_Enterprises_Highlights_Lifecycle_Value_in_Flow_Measurement_Systems_20250814104645/Titan_Enterprises.webp"
+    },
+    "equipment5": {
+      "category": "None",
+      "content": " :  Biotech Fluidics has expanded its range of barbed peristaltic tube connectors – designed and proven to securely hold flexible tubing in place. The latest addition to the range is a peristaltic tubing stop adapter that eliminates the need for fixed stoppers and allows custom cut lengths of peristaltic tubing to be installed on any pump head size. This unique adapter allows peristaltic tubing to be simply pressed over a specially designed nose and then held tightly in place by a retainer sleeve.\r\n\r\nMagda Nystrom, product specialist at Biotech Fluidics, commented, “Our peristaltic tube connectors are ideal for making reliable, secure connections with soft-walled, peristaltic tubing. We offer a range of different connectors to adapt soft-walled tubing with rigid-walled tubing; soft-walled tubing to products with a Luer terminus; soft-walled tubing to threaded ports; as well as ways to connect soft-walled tubing to one or more other soft-walled tubes. With all the options we have on offer, you have a great chance to find a peristaltic tube connector to optimally match your application.”\r\n\r\nContact:\r\nBiotech Fluidics AB \r\nRaovagen 300\r\n439 92 Onsala\r\nSweden\r\nTel: +46-300-56-9180\r\nEmail: info@biotechfluidics.com\r\nWeb: www.biotechfluidics.com\r\n\r\n",
+      "country": "Sweden ",
+      "created_at": "2025-08-14 09:52:06",
+      "created_by": "Admin",
+      "id": "689db1c6aee2dfa06d55472e",
+      "image_caption": "Source: Biotech Fluidics",
+      "mob_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Biotech_Fluidics_Introduces_New_Peristaltic_Tubing_Stop_Adapter_for_Enhanced_Fluid_Transfer_20250814095205/Source:_Biotech_Fluidics.webp",
+      "news_type": "Equipments",
+      "published_by": "Chemical Today",
+      "published_date": "2025-08-14",
+      "thumbnail_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Biotech_Fluidics_Introduces_New_Peristaltic_Tubing_Stop_Adapter_for_Enhanced_Fluid_Transfer_20250814095205/Source:_Biotech_Fluidics.webp",
+      "title": "Biotech Fluidics Introduces New Peristaltic Tubing Stop Adapter for Enhanced Fluid Transfer",
+      "visibility": true,
+      "web_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Biotech_Fluidics_Introduces_New_Peristaltic_Tubing_Stop_Adapter_for_Enhanced_Fluid_Transfer_20250814095205/Source:_Biotech_Fluidics.webp"
+    },
+    "equipment6": {
+      "category": "None",
+      "content": " :  The Quick Connect Valve 700 is a patented dual ball valve engineered to enhance safety, efficiency, and sustainability in Direct Liquid Cooling (DLC) systems. As the first all-polymer quick connect valve for data center applications, it is 50% lighter and facilitates 25% better flow compared to conventional metal alternatives while offering easy, ergonomic handling.\r\n\r\nAs demand for high-density, high-performance computing grows, DLC is becoming the preferred method for thermal management in next-generation data centers. By transporting coolant directly to the chip, DLC significantly improves thermal efficiency compared to air-based methods. A key component in this setup is the Technology Cooling System (TCS), which distributes coolant from the Cooling Distribution Unit (CDU) to individual server racks. To support this shift, GF has developed the Quick Connect Valve 700, a fully plastic, dual ball valve engineered specifically for direct-to-chip liquid cooling environments. Positioned at the interface between the main distribution system and server racks, the valve enables fast, safe, and durable coolant connections in mission-critical settings.\r\n\r\nBuilt on GF’s proven Ball Valve 546 Pro platform, the Quick Connect Valve 700 features two identical PVDF valve halves and a patented dual-interlock lever. This mechanism ensures the valve can only be decoupled when both sides are securely closed, minimizing fluid loss and maximizing operator safety during maintenance. Its two-handed operation further reduces the risk of accidental disconnection.\r\n\r\nThe valve is made of corrosion-free polymer and therefore offers the same benefits as the rest of GF’s thermoplastic valve line-up. It is over 50% lighter than metal alternatives, while delivering enhanced performance and providing a UL 94 V-0 flammability rating. Combined with the ergonomic design of its interlocking mechanism, the valve is easy to handle during installation and operation. At the same time, its full-bore valve design ensures an optimal flow profile and a reduced pressure drop of up to 25% compared to similar metal products. Thanks to a full quality inspection and a proven design, the Quick Connect Valve 700 has a minimum expected service life of 25 years.\r\n\r\n“With the Quick Connect Valve 700, we’ve created a critical link in the DLC cooling loop that’s not only lighter and safer, but more efficient,” says Charles Freda, Global Head of Data Centers at GF. “This innovation builds on our long-standing thermoplastic expertise to help operators achieve the performance and uptime their mission-critical environments demand.”\r\n\r\nFor more transparency and to support project planning, the Quick Connect Valve 700 has been assessed with an Environmental Product Declaration (EPD) according to ISO 14025 and EN 15804. An EPD is a standardized, third-party verified document that uses scientifically quantified data from Life Cycle Assessments to estimate environmental impacts and enable comparisons between similar products.\r\n\r\nContact:\r\nGeorg Fischer Piping Systems Ltd\r\nEbnatstrasse 111\r\n8201 Schaffhausen, Switzerland\r\nTel: +41 52 631 3371\r\nEmail: constanze.werdermann@georgfischer.com\r\nWeb: www.gfps.com\r\n",
+      "country": "Switzerland",
+      "created_at": "2025-08-12 08:47:07",
+      "created_by": "Admin",
+      "id": "689aff8baee2dfa06d554708",
+      "image_caption": " ",
+      "mob_image_url": "https://new-chemical-today.s3.amazonaws.com/News/GF_Introduces_Quick_Connect_Valve_700_for_Advanced_Data_Center_Cooling_20250812084707/_.webp",
+      "news_type": "Equipments",
+      "published_by": "Chemical Today",
+      "published_date": "2025-08-12",
+      "thumbnail_image_url": "https://new-chemical-today.s3.amazonaws.com/News/GF_Introduces_Quick_Connect_Valve_700_for_Advanced_Data_Center_Cooling_20250812084707/_.webp",
+      "title": "GF Introduces Quick Connect Valve 700 for Advanced Data Center Cooling",
+      "visibility": true,
+      "web_image_url": "https://new-chemical-today.s3.amazonaws.com/News/GF_Introduces_Quick_Connect_Valve_700_for_Advanced_Data_Center_Cooling_20250812084707/_.webp"
+    },
+    "horizontal_banner": {
+      "advt_type": {
+        "height": 1080,
+        "id": "67a1d978aee2dfa06d553de3",
+        "name": "banner",
+        "width": 12840
+      },
+      "contact_number": "11111111111",
+      "description": "..........",
+      "id": "67a1d9efaee2dfa06d553de5",
+      "image": "https://new-chemical-today.s3.amazonaws.com/advertisements/banner/banner/banner.webp",
+      "name": "banner",
+      "organization_name": "banner",
+      "redirect_url": "https://rrma-global.org/",
+      "subscription_end_date": "2025-02-19",
+      "subscription_start_date": "2025-02-04"
+    }
+  },
   "homeScreenPostSection": {
     "advt1": {
       "advt_type": {
@@ -68,40 +311,6 @@
       "subscription_start_date": "2024-10-28"
     },
     "post1": {
-      "category": "Pharma",
-      "content": " :  The Department of Pharmaceuticals is driving India’s pharmaceutical self-reliance through three major initiatives — the Production Linked Incentive (PLI) Scheme for Bulk Drugs, the PLI Scheme for Pharmaceuticals, and the Promotion of Research and Innovation in Pharma MedTech Sector (PRIP): Union Minister of State for Chemicals and Fertilizers Smt. Anupriya Patel informed the Rajya Sabha today.\r\n\r\nKey initiatives include:\r\nThe PLI Scheme for Bulk Drugs has made significant strides with an outlay of ₹6,940 crore. A total of 32 companies have been selected to undertake 48 projects, encompassing 33 Active Pharmaceutical Ingredients (APIs), Drug Intermediates (DIs), and Key Starting Materials (KSMs). The investment has reached ₹4,709 crore, exceeding the committed ₹3,938.5 crore, which has led to the creation of domestic capacity for 26 products. Sales under this scheme have amounted to ₹1,962 crore, with exports contributing ₹479 crore, resulting in import savings of ₹1,483 crore.\r\n\r\nIn parallel, the PLI Scheme for Pharmaceuticals boasts a substantial outlay of ₹15,000 crore and has selected 55 companies to focus on high-value medicines, including biopharmaceuticals, generics, vaccines, and APIs. The total investment has soared to ₹38,543 crore, significantly surpassing the committed ₹17,275 crore. This initiative has enhanced capacity at 28 greenfield sites, with total sales reaching an impressive ₹2,89,606 crore, where exports alone account for ₹1,86,710 crore. Moreover, sales of APIs, DIs, and KSMs stand at ₹62,966 crore, with exports at ₹38,868 crore.\r\n\r\nAdditionally, the PRIP (Promotion of Research and Innovation in Pharma MedTech Sector) aims to foster innovation with an outlay of ₹5,000 crore. So far, seven Centres of Excellence have been established with an investment of ₹700 crore at NIPERs, supporting a total of 106 research projects approved until July 2025. This initiative signifies a commitment to advancing research and development within the pharmaceutical and MedTech sectors.\r\n\r\nThe Minister also highlighted global integration efforts. The WHO Global Traditional Medicine Centre in Jamnagar has been established as an international hub, and an MoU signed with the WHO in May 2025 will help standardise coding of Ayush interventions worldwide.\r\n\r\n",
-      "country": "India",
-      "created_at": "2025-08-20 04:54:34",
-      "created_by": "Admin",
-      "id": "68a5550aaee2dfa06d55475b",
-      "image_caption": "Source: Department of Pharmaceuticals. ",
-      "mob_image_url": "https://new-chemical-today.s3.amazonaws.com/News/PLI schemes and PRIP Accelerate India’s Pharma Self-Reliance/Source_Department_of_Pharmaceuticals.__Web_Image_3_1.webp",
-      "news_type": "Posts",
-      "published_by": "Chemical Today",
-      "published_date": "2025-08-20",
-      "thumbnail_image_url": "https://new-chemical-today.s3.amazonaws.com/News/PLI schemes and PRIP Accelerate India’s Pharma Self-Reliance/Source_Department_of_Pharmaceuticals.__Web_Image_3_1.webp",
-      "title": "PLI schemes and PRIP Accelerate India’s Pharma Self-Reliance",
-      "visibility": true,
-      "web_image_url": "https://new-chemical-today.s3.amazonaws.com/News/PLI schemes and PRIP Accelerate India’s Pharma Self-Reliance/Source_Department_of_Pharmaceuticals.__Web_Image_3_1.webp"
-    },
-    "post2": {
-      "category": "Plastic and Polymers",
-      "content": " :  Chemours announced that it has entered into strategic agreements with India-based SRF Limited to expand global supply for fluoropolymers and fluoroelastomers by 2026. SRF, a diversified chemical manufacturer, produces industrial and specialty intermediates including fluoropolymers.\r\n\r\nThe collaboration enhances Chemours’ supply chain presence, adds operational flexibility, and secures access to production capacity for materials essential to industries such as semiconductors, automotive, aerospace, chemical processing and energy. By aligning SRF’s manufacturing capabilities with Chemours’ product technology and quality standards, the partnership aims to ensure consistent availability of advanced materials without requiring upfront capital investment from Chemours.\r\n\r\n“This arrangement with SRF exemplifies our Pathway to Thrive strategy as we continue to shift our product mix to higher value applications, enhancing our position as a trusted supplier paired with our commitment to responsible manufacturing practices,” said Denise Dignam, Chemours President and CEO.\r\n\r\n“This strategic relationship with The Chemours Company is a testament to SRF’s proven capabilities in complex chemical production,” said Prashant Yadav, President and CEO – Fluorochemicals and Technical Textiles Businesses, SRF Limited. “We are proud to reinforce our position as a trusted manufacturer of advanced materials and believe this marks the beginning of a strong relationship with a global leader in performance chemicals and advanced fluoropolymers.”\r\n\r\nThe agreements will supplement Chemours’ global operations and broaden supply flexibility, positioning both companies to meet growing international demand for essential fluoropolymer applications.\r\n\r\n",
-      "country": "USA/ India",
-      "created_at": "2025-08-20 07:18:45",
-      "created_by": "Admin",
-      "id": "68a576d5aee2dfa06d55475d",
-      "image_caption": "Source: Chemours",
-      "mob_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Chemours_and_SRF_India_Partner_to_Expand_Fluoropolymer_Supply_by_2026__20250820071844/Source:_Chemours.webp",
-      "news_type": "Posts",
-      "published_by": "Chemical Today",
-      "published_date": "2025-08-20",
-      "thumbnail_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Chemours_and_SRF_India_Partner_to_Expand_Fluoropolymer_Supply_by_2026__20250820071844/Source:_Chemours.webp",
-      "title": "Chemours and SRF India Partner to Expand Fluoropolymer Supply by 2026 ",
-      "visibility": true,
-      "web_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Chemours_and_SRF_India_Partner_to_Expand_Fluoropolymer_Supply_by_2026__20250820071844/Source:_Chemours.webp"
-    },
-    "post3": {
       "category": "Plastic and Polymers",
       "content": " :  Sumitomo Chemical has initiated operations at a newly built pilot facility in the Sodegaura area of its Chiba Works, where it will test its proprietary technology for producing propylene directly from ethanol. Supported by Japan’s NEDO Green Innovation Fund, the project is designed to help the petrochemical sector transition toward alternative feedstocks. The company plans to advance demonstration activities with the goal of commercializing and licensing the process by the early 2030s.\r\n\r\nPropylene remains one of the most widely used basic chemicals and in Japan is mainly derived from naphtha, a fossil-based raw material. Ethanol, by contrast, can be obtained from renewable sources such as sugarcane, corn, and pulp, as well as from combustible waste. With industrial-scale ethanol production technologies progressing, the feedstock is increasingly being considered as a replacement for fossil resource-derived chemicals.\r\n\r\nThe newly developed process allows for the direct conversion of ethanol to propylene in a single step, without generating intermediates such as ethylene. This approach is expected to lower production costs and additionally produces hydrogen as a by-product. When bioethanol is used, the process can also yield bio-derived hydrogen, offering further sustainability benefits.\r\n\r\nSumitomo Chemical will continue gathering technical data needed for industrialization while promoting polypropylene derived from propylene obtained through this method. Alongside this, the company intends to expand its technology licensing and catalyst sales. The broader strategy seeks to shift petrochemical operations toward low-carbon value creation and position the firm for green transformation initiatives beyond 2030, including circular resource chains and CO2 reduction monetization. The Sumitomo Chemical Group stated it will remain focused on advancing technologies that contribute to a sustainable society.\r\n",
       "country": "Japan",
@@ -117,6 +326,40 @@
       "title": "Sumitomo Chemical Advances Ethanol-to-Propylene Pilot in Japan",
       "visibility": true,
       "web_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Sumitomo_Chemical_Advances_Ethanol-to-Propylene_Pilot_in_Japan_20250820075733/Sumitomo_Chemical_begins_pilot_testing_for_ethanol-to-propylene_technology..webp"
+    },
+    "post2": {
+      "category": "Food and Beverages",
+      "content": " :  DIC Corporation announced the establishment of a new production facility in Jakarta, Indonesia, dedicated to coatings for direct food contact materials. Operated by PT. DIC Graphics, a wholly owned subsidiary, the facility is the first in the world run by an inks manufacturer to be designed in compliance with Hazard Analysis Critical Control Point (HACCP) principles, a globally recognized food safety management system. DIC has applied for HACCP certification, and the facility’s system has already achieved standards comparable to those of food product manufacturers.\r\n\r\nThe company has set an annual production target of 1,000 tonnes by fiscal year 2030 to supply markets in Asia, including China, and Oceania. Equipped with advanced food safety infrastructure such as air showers, high-efficiency particulate air (HEPA) filter dusters, and antibacterial flooring, the facility also complies with Indonesia’s halal regulations and the World Health Organization’s Good Manufacturing Practices (GMP). DIC said the site’s location in Indonesia provides a strategic base for exports across Asia and Oceania, with potential expansion already under consideration.\r\n\r\nAs demand for sustainable packaging grows under the global shift toward a circular economy, DIC aims to replace conventional laminated plastic food packaging with high-performance coatings applied to substrates like paper and film. These coatings deliver water and oil resistance as well as sealing properties while allowing packaging to remain recyclable.\r\n\r\n“This facility demonstrates our commitment to advancing sustainable packaging solutions in line with the DIC Vision 2030 long-term management plan,” the company stated. “By establishing a HACCP-compliant production base in Indonesia, we can provide locally produced, high-performance coatings originally developed in the United States, Europe, and Japan to support next-generation packaging needs in Asian and Oceanian markets.”\r\n\r\nThe new facility, the company’s first in Asia outside Japan dedicated to coatings for direct food contact materials, will also expand DIC’s product lineup. Offerings will include high-performance coatings for paper such as HYDRECT®, SunStar DFC OPV/Coating, and other interior and exterior coatings designed for applications including paperboard lunch boxes, pizza boxes, hamburger wrappers, and paper cups.\r\n",
+      "country": "Tokyo, Japan",
+      "created_at": "2025-08-20 11:21:57",
+      "created_by": "Admin",
+      "id": "68a5afd5aee2dfa06d554769",
+      "image_caption": "New HACCP-compliant functional coatings production facility at PT. DIC Graphics plant.",
+      "mob_image_url": "https://new-chemical-today.s3.amazonaws.com/News/DIC_Establishes_First-of-Its-Kind_Sustainable_Coatings_Facility_for_Direct_Food_Contact_Materials_20250820112157/New_HACCP-compliant_functional_coatings_production_facility_at_PT._DIC_Graphics_plant..webp",
+      "news_type": "Posts",
+      "published_by": "Chemical Today",
+      "published_date": "2025-08-20",
+      "thumbnail_image_url": "https://new-chemical-today.s3.amazonaws.com/News/DIC_Establishes_First-of-Its-Kind_Sustainable_Coatings_Facility_for_Direct_Food_Contact_Materials_20250820112157/New_HACCP-compliant_functional_coatings_production_facility_at_PT._DIC_Graphics_plant..webp",
+      "title": "DIC Establishes First-of-Its-Kind Sustainable Coatings Facility for Direct Food Contact Materials",
+      "visibility": true,
+      "web_image_url": "https://new-chemical-today.s3.amazonaws.com/News/DIC_Establishes_First-of-Its-Kind_Sustainable_Coatings_Facility_for_Direct_Food_Contact_Materials_20250820112157/New_HACCP-compliant_functional_coatings_production_facility_at_PT._DIC_Graphics_plant..webp"
+    },
+    "post3": {
+      "category": "Plastic and Polymers",
+      "content": " :  Chemours announced that it has entered into strategic agreements with India-based SRF Limited to expand global supply for fluoropolymers and fluoroelastomers by 2026. SRF, a diversified chemical manufacturer, produces industrial and specialty intermediates including fluoropolymers.\r\n\r\nThe collaboration enhances Chemours’ supply chain presence, adds operational flexibility, and secures access to production capacity for materials essential to industries such as semiconductors, automotive, aerospace, chemical processing and energy. By aligning SRF’s manufacturing capabilities with Chemours’ product technology and quality standards, the partnership aims to ensure consistent availability of advanced materials without requiring upfront capital investment from Chemours.\r\n\r\n“This arrangement with SRF exemplifies our Pathway to Thrive strategy as we continue to shift our product mix to higher value applications, enhancing our position as a trusted supplier paired with our commitment to responsible manufacturing practices,” said Denise Dignam, Chemours President and CEO.\r\n\r\n“This strategic relationship with The Chemours Company is a testament to SRF’s proven capabilities in complex chemical production,” said Prashant Yadav, President and CEO – Fluorochemicals and Technical Textiles Businesses, SRF Limited. “We are proud to reinforce our position as a trusted manufacturer of advanced materials and believe this marks the beginning of a strong relationship with a global leader in performance chemicals and advanced fluoropolymers.”\r\n\r\nThe agreements will supplement Chemours’ global operations and broaden supply flexibility, positioning both companies to meet growing international demand for essential fluoropolymer applications.\r\n\r\n",
+      "country": "USA/ India",
+      "created_at": "2025-08-20 07:18:45",
+      "created_by": "Admin",
+      "id": "68a576d5aee2dfa06d55475d",
+      "image_caption": "Source: Chemours",
+      "mob_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Chemours_and_SRF_India_Partner_to_Expand_Fluoropolymer_Supply_by_2026__20250820071844/Source:_Chemours.webp",
+      "news_type": "Posts",
+      "published_by": "Chemical Today",
+      "published_date": "2025-08-20",
+      "thumbnail_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Chemours_and_SRF_India_Partner_to_Expand_Fluoropolymer_Supply_by_2026__20250820071844/Source:_Chemours.webp",
+      "title": "Chemours and SRF India Partner to Expand Fluoropolymer Supply by 2026 ",
+      "visibility": true,
+      "web_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Chemours_and_SRF_India_Partner_to_Expand_Fluoropolymer_Supply_by_2026__20250820071844/Source:_Chemours.webp"
     },
     "post4": {
       "category": "Water Treatment",
@@ -136,3 +379,677 @@
       "web_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Pentair_to_Acquire_Hydra-Stop_in_$290_Million_Deal_20250820084731/Pentair_expands_water_infrastructure_solutions_with_Hydra-Stop_acquisition..webp"
     }
   },
+  "homeScreenTopSection": {
+    "advt1": {
+      "advt_type": {
+        "height": 180,
+        "id": "67f60a8eaee2dfa06d554094",
+        "name": "rockwell",
+        "width": 1160
+      },
+      "contact_number": "11111111111",
+      "description": "............",
+      "id": "67f60ab3aee2dfa06d554095",
+      "image": "https://new-chemical-today.s3.amazonaws.com/advertisements/rockwell/rockwell/Leaderboard_Banner_Ad_580x90px_2x.jpg",
+      "name": "rockwell",
+      "organization_name": "rockwell",
+      "redirect_url": "https://www.rockwellautomation.com/en-in/capabilities/process-solutions/process-systems/campaign-process-power.html?utm_source=ThirdParty&utm_medium=Paid_Display&utm_campaign=IA_MultiIndustry_AP_CMP-07572-C1P7R9&utm_content=LP_PP_WOCDisplay_IN",
+      "subscription_end_date": "2025-05-09",
+      "subscription_start_date": "2025-04-09"
+    },
+    "advt2": {
+      "advt_type": {
+        "height": 200,
+        "id": "67f623e3aee2dfa06d55409d",
+        "name": "rockwell-1",
+        "width": 400
+      },
+      "contact_number": "11111111111",
+      "description": "..........",
+      "id": "67f62428aee2dfa06d55409e",
+      "image": "https://new-chemical-today.s3.amazonaws.com/advertisements/rockwell-1/rockwell-1/Hero_Banner_400x200px.jpg",
+      "name": "rockwell-1",
+      "organization_name": "rockwell-1",
+      "redirect_url": "https://chemicaltoday.in/advertorials/rockwell",
+      "subscription_end_date": "2025-05-15",
+      "subscription_start_date": "2025-04-09"
+    },
+    "horizontal_banner": [
+      {
+        "advt_type": {
+          "height": 361,
+          "id": "6809bc1faee2dfa06d5541af",
+          "name": "rockwell-horizontal",
+          "width": 4281
+        },
+        "contact_number": "11111111111",
+        "description": ".............",
+        "id": "6809bc65aee2dfa06d5541b1",
+        "image": "https://new-chemical-today.s3.amazonaws.com/advertisements/rockwell-horizontal/rockwell-horizontal/Leaderboard_Banner_Ad_1070x90px.webp",
+        "name": "rockwell-horizontal",
+        "organization_name": "rockwell-horizontal",
+        "redirect_url": "https://www.rockwellautomation.com/en-in/capabilities/process-solutions/process-systems/campaign-process-power.html?utm_source=ThirdParty&utm_medium=Paid_Display&utm_campaign=IA_MultiIndustry_AP_CMP-07572-C1P7R9&utm_content=LP_PP_WOCDisplay_IN",
+        "subscription_end_date": "2025-05-24",
+        "subscription_start_date": "2025-04-24"
+      },
+      {
+        "advt_type": {
+          "height": 90,
+          "id": "68a5b122aee2dfa06d55476a",
+          "name": "Hexagon-top-banner",
+          "width": 1070
+        },
+        "contact_number": "11111111111",
+        "description": "........",
+        "id": "68a5b18aaee2dfa06d55476b",
+        "image": "https://new-chemical-today.s3.amazonaws.com/advertisements/Hexagon-top-banner/Hexagon-top-banner/Hexagon_ALI_ETQ_Digital_Ad_Banner_1070x90px-01.jpg",
+        "name": "Hexagon-top-banner",
+        "organization_name": "Hexagon-top-banner",
+        "redirect_url": "https://hexagon.com/products/product-groups/etq-reliance?utm_campaign=2025_Q3_EMIA_ETQ_Digital_IN_PRWOC&utm_medium=social&utm_source=linkedin",
+        "subscription_end_date": "2025-09-20",
+        "subscription_start_date": "2025-08-20"
+      }
+    ],
+    "latest_updates1": {
+      "desc": "Carbon280 Launches Breakthrough Project for Hydrogen and Helium Separation",
+      "name": "Latest News-1",
+      "url": "https://chemicaltoday.in/news/Sustainability/68a54c37aee2dfa06d554759/Carbon280%20Launches%20Breakthrough%20Project%20for%20Hydrogen%20and%20Helium%20Separation"
+    },
+    "latest_updates2": {
+      "desc": "PLI schemes and PRIP Accelerate India’s Pharma Self-Reliance",
+      "name": "Latest News-2",
+      "url": "https://chemicaltoday.in/news/Posts/68a5550aaee2dfa06d55475b/PLI%20schemes%20and%20PRIP%20Accelerate%20India%E2%80%99s%20Pharma%20Self-Reliance"
+    },
+    "latest_updates3": {
+      "desc": "Chemours and SRF India Partner to Expand Fluoropolymer Supply by 2026",
+      "name": "Latest News-3",
+      "url": "https://chemicaltoday.in/news/Posts/68a576d5aee2dfa06d55475d/Chemours%20and%20SRF%20India%20Partner%20to%20Expand%20Fluoropolymer%20Supply%20by%202026"
+    },
+    "latest_updates4": {
+      "desc": "Solvent Strength that Shapes Global Manufacturing: THF",
+      "name": "Latest News-4",
+      "url": "https://chemicaltoday.in/news/Articles/68a57e9daee2dfa06d55475f/Solvent%20Strength%20that%20Shapes%20Global%20Manufacturing:%20THF"
+    },
+    "post": {
+      "category": "None",
+      "content": " :  Emerson announced the release of the Rosemount™ 3144S Temperature Transmitter, designed to provide superior accuracy, long-term stability, advanced diagnostics, and simplified usability for industrial applications. The transmitter offers 0.05 °C (0.09 °F) accuracy and is available with an optional 20-year stability specification and 20-year limited warranty, underscoring its reliability for critical operations.\r\n\r\nThe new model incorporates Emerson’s ReadyConnect™ Technology, which enables plug-and-play sensor configuration at the push of a button. This feature eliminates manual entry of sensor information and coefficients, reducing commissioning time and ensuring more efficient startup.\r\n\r\nDesigned with usability in mind, the transmitter includes a backlit display with simplified task-based menus, Quick Service Buttons for commissioning and maintenance tasks, and Bluetooth® wireless connectivity that allows remote access from up to 50 feet away. These features support the needs of a workforce that is increasingly focused on efficiency and safety.\r\n\r\nThe Rosemount 3144S also expands the application range of Emerson’s Rosemount X-well™ Technology, a non-intrusive temperature measurement solution now capable of measuring up to 650 °C (1,202 °F).\r\n\r\nTo further improve operational reliability, the transmitter includes Loop Integrity diagnostics and RTD Measurement Protection. These capabilities enable continuous monitoring of the electrical loop, provide real-time insight into sensor health, and allow seamless switching between RTD inputs if sensor wiring issues occur.\r\n\r\n",
+      "country": "USA",
+      "created_at": "2025-08-20 11:42:30",
+      "created_by": "Admin",
+      "id": "68a5b4a6aee2dfa06d55476d",
+      "image_caption": "New transmitter delivers 0.05 °C accuracy, 20-year stability, and advanced diagnostics. (Source: Eme",
+      "mob_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Emerson_Launches_Enhanced_Rosemount™_3144S_Temperature_Transmitter_20250820114230/New_transmitter_delivers_0.05_°C_accuracy,_20-year_stability,_and_advanced_diagnostics._(Source:_Eme.webp",
+      "news_type": "Equipments",
+      "published_by": "Chemical Today",
+      "published_date": "2025-08-20",
+      "thumbnail_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Emerson_Launches_Enhanced_Rosemount™_3144S_Temperature_Transmitter_20250820114230/New_transmitter_delivers_0.05_°C_accuracy,_20-year_stability,_and_advanced_diagnostics._(Source:_Eme.webp",
+      "title": "Emerson Launches Enhanced Rosemount™ 3144S Temperature Transmitter",
+      "visibility": true,
+      "web_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Emerson_Launches_Enhanced_Rosemount™_3144S_Temperature_Transmitter_20250820114230/New_transmitter_delivers_0.05_°C_accuracy,_20-year_stability,_and_advanced_diagnostics._(Source:_Eme.webp"
+    },
+    "scroll_items": [
+      {
+        "desc": "Carbon280 Launches Breakthrough Project for Hydrogen and Helium Separation  ||",
+        "name": "highlights-1",
+        "url": "https://chemicaltoday.in/news/Sustainability/68a54c37aee2dfa06d554759/Carbon280%20Launches%20Breakthrough%20Project%20for%20Hydrogen%20and%20Helium%20Separation"
+      },
+      {
+        "desc": "PLI schemes and PRIP Accelerate India’s Pharma Self-Reliance   ||",
+        "name": "highlights-2",
+        "url": "https://chemicaltoday.in/news/Posts/68a5550aaee2dfa06d55475b/PLI%20schemes%20and%20PRIP%20Accelerate%20India%E2%80%99s%20Pharma%20Self-Reliance"
+      },
+      {
+        "desc": "Chemours and SRF India Partner to Expand Fluoropolymer Supply by 2026   ||",
+        "name": "highlights-3",
+        "url": "https://chemicaltoday.in/news/Posts/68a576d5aee2dfa06d55475d/Chemours%20and%20SRF%20India%20Partner%20to%20Expand%20Fluoropolymer%20Supply%20by%202026"
+      },
+      {
+        "desc": "Solvent Strength that Shapes Global Manufacturing: THF   ||",
+        "name": "highlights-4",
+        "url": "https://chemicaltoday.in/news/Articles/68a57e9daee2dfa06d55475f/Solvent%20Strength%20that%20Shapes%20Global%20Manufacturing:%20THF"
+      },
+      {
+        "desc": "Sumitomo Chemical Advances Ethanol-to-Propylene Pilot in Japan  ||",
+        "name": "highlights-5",
+        "url": "https://chemicaltoday.in/news/Posts/68a57fedaee2dfa06d554760/Sumitomo%20Chemical%20Advances%20Ethanol-to-Propylene%20Pilot%20in%20Japan"
+      }
+    ]
+  },
+  "insightSection": {
+    "casestudy": {
+      "category": "None",
+      "content": " :  Holyhead station, a prominent railway station situated in Wales. Strategically located near a harbour and high street, it serves as a key transport hub, seamlessly connecting the region’s rail and maritime networks. As a result, the Grade II listed train station has endured persistent exposure to salty sea air, high humidity, heat from the trains and diesel fumes. This relentless environmental assault has resulted in significant corrosion of the structural steel canopies, causing progressive deterioration of the exposed steel. The extent of the damage has highlighted the need for a longer-lasting solution to preserve the station's structural integrity and historical value.\r\n\r\nThe Challenge: Harsh Environmental Exposure\r\nNetwork Rail’s current coatings manufacturer could not guarantee their product's effectiveness due to the harsh location. As a result, their coatings failed within just 18 months — significantly short of the intended 15-year maintenance cycle. This prompted the need to find an enhanced paint system that could outperform the existing specified paint system to: \r\n•\tMaintain structural integrity\r\n•\tPreserve the station's historical features\r\n•\tReduce maintenance and repair costs\r\n\r\nThe Solution: Intelli-ion® AX1 for Enhanced Corrosion Protection\r\nThe solution implemented was Hexigone's “smart” corrosion inhibitor, Intelli-ion® AX1, chosen for its superior corrosion protection in harsh environments. AX1 effectively combats corrosion in highly aggressive environments, while delivering longer-lasting corrosion protection.  A compelling real-world demonstration took place in the Celtic Sea, where 31 panel sets were mounted on a buoy and exposed to over 6,000 hours of extreme marine conditions from September 2022 to June 2023. This rigorous offshore test provided an authentic evaluation of coating performance. Intelli-ion® AX1 delivered a marked improvement in corrosion resistance compared to systems without the additive. \r\n\r\nAchieving C5-level corrosion resistance, Intelli-ion® AX1 has also endured 1440 hours in salt spray testing (ASTM B117), and offers enhanced adhesion and colour retention in both laboratory and live testing.\r\nMethodology\r\nTo compare performance, two protection systems were applied simultaneously: \r\n•\t50% of the train station was painted with a standard system. \r\n•\tThe remaining 50% was painted with a system enhanced with Intelli-ion® AX1\r\n\r\nNOTE: The areas coated with the Intelli-ion® AX1 enhanced primer could not be fully prepared; it could not be washed to remove surface salts due to location and proximity to existing live electrical wiring, had poor surface preparation, and the paint company used (a large tier 1 supplier) did not guarantee their system in these areas.\r\n\r\nLaboratory Test Results: 1000 Hours Salt Spray ASTM B117\r\nIn a controlled laboratory test, metal panels coated with a standard primer were compared side by side with panels using the same formulation enhanced with Intelli-ion® AX1. After 1,000 hours in a salt spray chamber (ASTM B117), the AX1-enhanced panels showed a clear improvement in corrosion resistance, with far less degradation around the scribe and edges. Beyond corrosion protection, the test also revealed significantly stronger adhesion, with the aluminum primer bonding more effectively to the metal surface — a key factor in long-term coating performance and durability.\r\n\r\nReal-World Results: The addition of Intelli-ion® AX1 significantly enhanced the 50% repainting process of the mile-long station's surface, comprised of tool-prepared Victorian cast iron.  Contractors observed the following improved application properties; “the paint applied more easily, spread more evenly, and provided more coverage.” By enhancing surface tolerance, AX1 improved adhesion by 163.16%, resulting in increased performance. This improvement led to reduced maintenance requirements, delivering a highly efficient, cost-effective solution with enhanced long-term asset protection.\r\n\r\n3 Years After Application: Intelli-ion® AX1 demonstrated superior performance compared to the standard system - designed to provide 15 years of corrosion protection.\r\n\r\nConclusion: Proven Protection for Critical Rail Infrastructure\r\nThe deployment of Intelli-ion® AX1 at Holyhead Station has proven to be a significant advancement in corrosion protection for the rail industry. Faced with one of the most challenging environments in the UK, the Intelli-ion®-enhanced system delivered measurable improvements in adhesion, corrosion resistance, and application efficiency— even under suboptimal surface preparation conditions. With performance validated in both laboratory and real-world conditions, Intelli-ion® AX1 has shown its ability to extend asset life, reduce maintenance demands, and preserve the structural integrity of historically significant infrastructure. Its adoption at Holyhead sets a powerful precedent for future rail projects requiring long-term durability in aggressive environments.\r\n\r\nBeyond performance, Intelli-ion® AX1 is aligned with the industry’s shift toward more sustainable solutions. Free from heavy metals, phosphates, and toxic chromates, it embodies a circular economy approach—repurposing waste from adjacent industries into a high-performance corrosion inhibitor. This innovative technology not only reduces the environmental impact of the coatings industry but also meets the growing global demand for a high-performance, sustainable, corrosion inhibitor. As the industry moves toward smarter, more sustainable solutions, Intelli-ion® AX1 redefines what's possible in protective coatings—offering reliable corrosion resistance for all metal infrastructures, old and new. \r\n\r\nCourtesy: Hexigone Inhibitors Ltd.\r\n\r\n(Note: For better understanding- please go through the August Edition- Case Study titled “Hexigone: Enhancing Corrosion Protection in the Rail Industry”)\r\n\r\n",
+      "country": "UK",
+      "created_at": "2025-07-31 09:17:21",
+      "created_by": "Admin",
+      "id": "688b34a1aee2dfa06d554685",
+      "image_caption": "Source: Hexigone Inhibitors Ltd.",
+      "mob_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Hexigone: Enhancing Corrosion Protection in the Rail Industry/Source_Hexigone_Inhibitors_Ltd._Frame_308_1.webp",
+      "news_type": "Case Studies",
+      "published_by": "Chemical Today",
+      "published_date": "2025-07-18",
+      "thumbnail_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Hexigone: Enhancing Corrosion Protection in the Rail Industry/Source_Hexigone_Inhibitors_Ltd._Frame_308_1.webp",
+      "title": "Hexigone: Enhancing Corrosion Protection in the Rail Industry",
+      "visibility": true,
+      "web_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Hexigone: Enhancing Corrosion Protection in the Rail Industry/Source_Hexigone_Inhibitors_Ltd._Frame_308_1.webp"
+    },
+    "horizontal_banner": [
+      {
+        "advt_type": {
+          "height": 546,
+          "id": "688c5180aee2dfa06d55468b",
+          "name": "quote-29",
+          "width": 6426
+        },
+        "contact_number": "11111111111",
+        "description": "........",
+        "id": "688c51eeaee2dfa06d55468f",
+        "image": "https://new-chemical-today.s3.amazonaws.com/advertisements/quote-29/quote-29/Frame_313.webp",
+        "name": "quote-29",
+        "organization_name": "quote-29",
+        "redirect_url": "https://chemicaltoday.in/",
+        "subscription_end_date": "2025-09-01",
+        "subscription_start_date": "2025-08-01"
+      },
+      {
+        "advt_type": {
+          "height": 546,
+          "id": "688c518baee2dfa06d55468c",
+          "name": "quote-30",
+          "width": 6426
+        },
+        "contact_number": "11111111111",
+        "description": "...........",
+        "id": "688c520faee2dfa06d554690",
+        "image": "https://new-chemical-today.s3.amazonaws.com/advertisements/quote-30/quote-30/Frame_311.webp",
+        "name": "quote-30",
+        "organization_name": "quote-30",
+        "redirect_url": "https://chemicaltoday.in/",
+        "subscription_end_date": "2025-09-01",
+        "subscription_start_date": "2025-08-01"
+      },
+      {
+        "advt_type": {
+          "height": 546,
+          "id": "688c519aaee2dfa06d55468d",
+          "name": "quote-31",
+          "width": 6426
+        },
+        "contact_number": "11111111111",
+        "description": ".......",
+        "id": "688c522daee2dfa06d554691",
+        "image": "https://new-chemical-today.s3.amazonaws.com/advertisements/quote-31/quote-31/Frame_310.webp",
+        "name": "quote-31",
+        "organization_name": "quote-31",
+        "redirect_url": "https://chemicaltoday.in/",
+        "subscription_end_date": "2025-08-01",
+        "subscription_start_date": "2025-08-01"
+      },
+      {
+        "advt_type": {
+          "height": 546,
+          "id": "688c51b5aee2dfa06d55468e",
+          "name": "quote-32",
+          "width": 6426
+        },
+        "contact_number": "11111111111",
+        "description": ".....",
+        "id": "688c524baee2dfa06d554692",
+        "image": "https://new-chemical-today.s3.amazonaws.com/advertisements/quote-32/quote-32/Frame_312.webp",
+        "name": "quote-32",
+        "organization_name": "quote-32",
+        "redirect_url": "https://chemicaltoday.in/",
+        "subscription_end_date": "2025-09-01",
+        "subscription_start_date": "2025-08-01"
+      }
+    ],
+    "randd": {
+      "category": "None",
+      "content": " :  Researchers at Northwestern University, working with the Toyota Research Institute (TRI), have identified a low-cost alternative to iridium for clean hydrogen production using a nanomaterial platform called a megalibrary. The discovery, made within a single afternoon, could accelerate the adoption of green hydrogen by addressing one of the sector’s most pressing challenges.\r\n\r\nThe megalibrary, invented and developed at Northwestern, is described as the world’s first nanomaterial “data factory.” Each chip contains millions of uniquely designed nanoparticles, enabling rapid screening of vast combinations of metals. Using this tool, the research team tested different mixes of ruthenium, cobalt, manganese, and chromium. From more than 156 million particle variations, the team identified a multi-metal catalyst that matched, and in some cases exceeded, the performance of iridium while costing only a fraction of the price.\r\n\r\nThe new material, a ruthenium-cobalt-manganese-chromium oxide composition, demonstrated high activity, excellent stability, and durability in over 1,000 hours of testing under acidic conditions. It costs about one-sixteenth as much as iridium, which is one of the rarest and most expensive elements, priced at nearly $5,000 per ounce.\r\n\r\n“We’ve unleashed arguably the world’s most powerful synthesis tool, which allows one to search the enormous number of combinations available to chemists and materials scientists to find materials that matter,” said Chad A. Mirkin, senior author of the study, inventor of the megalibrary platform.\r\n\r\nGeorge B. Rathmann Professor of Chemistry at Northwestern. “In this particular project, we have channeled that capability toward a major problem facing the energy sector. That is: How do we find a material that is as good as iridium but is more plentiful, more available and a lot cheaper? This new tool enabled us to find a promising alternative and to find it rapidly.”\r\n\r\nTed Sargent, Lynn Hopton Davis and Greg Davis Professor of Chemistry at Northwestern and co-lead of the study, said the work highlights a fundamental supply issue. “There’s not enough iridium in the world to meet all of our projected needs. As we think about splitting water to generate alternative forms of energy, there’s not enough iridium from a purely supply standpoint,” Sargent noted.\r\n\r\nThe study, published in the Journal of the American Chemical Society (JACS), also involved contributions from Joseph Montoya, senior staff research scientist at TRI, who emphasized the importance of scaling up. “For the first time, we were not only able to rapidly screen catalysts, but we saw the best ones performing well in a scaled-up setting,” Montoya said. “There’s lots of work to do to make this commercially viable, but it’s very exciting that we can identify promising catalysts so quickly — not only at the lab scale but for devices.”\r\n\r\nAccording to Northwestern, the megalibrary approach not only offers a breakthrough for hydrogen catalysts but also lays the foundation for leveraging artificial intelligence and machine learning in future materials discovery. Mirkin said the technology has the potential to transform fields ranging from batteries to biomedical devices.\r\n",
+      "country": "USA",
+      "created_at": "2025-08-20 09:43:45",
+      "created_by": "Admin",
+      "id": "68a598d1aee2dfa06d554764",
+      "image_caption": "Source: Northwestern Researchers. ",
+      "mob_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Northwestern_Researchers_Discover_Iridium_Alternative_for_Green_Hydrogen_Using_Megalibrary_Technolog_20250820094345/Source:_Northwestern_Researchers._.webp",
+      "news_type": "R&D",
+      "published_by": "Chemical Today",
+      "published_date": "2025-08-20",
+      "thumbnail_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Northwestern_Researchers_Discover_Iridium_Alternative_for_Green_Hydrogen_Using_Megalibrary_Technolog_20250820094345/Source:_Northwestern_Researchers._.webp",
+      "title": "Northwestern Researchers Discover Iridium Alternative for Green Hydrogen Using Megalibrary Technology",
+      "visibility": true,
+      "web_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Northwestern_Researchers_Discover_Iridium_Alternative_for_Green_Hydrogen_Using_Megalibrary_Technolog_20250820094345/Source:_Northwestern_Researchers._.webp"
+    },
+    "report": {
+      "category": "None",
+      "content": " :  Biogas is a mixture of methane, carbon dioxide, and trace gases generated through the anaerobic breakdown of organic matter. Its methane content typically ranges from 45 to 75 percent, depending on the feedstock and process. Key production methods include biodigesters, landfill gas recovery systems, and wastewater treatment facilities. Biomethane, the upgraded form of biogas, is nearly pure methane and closely resembles natural gas in properties and usability.\r\n\r\nGrowing Demand \r\nAlthough biogases currently make up just 3 percent of global modern bioenergy production, their use is rising steadily. Biomethane alone has grown at 20 percent annually over the last five years. Most of this growth is supported by national policies, including production targets, financial incentives, and procurement mandates. Despite the increase, biomethane still only meets 1 percent of global natural gas demand. The current sustainable biogas production potential is estimated at around 1,000 billion cubic metres equivalent. This equals roughly a quarter of global natural gas consumption. By 2050, this figure could reach 1,400 bcme, supported by technological improvements, increased agricultural yields, and better economies of scale. Eighty percent of the global biogas production potential lies in emerging and developing economies. India, Brazil, and China top the list, benefitting from extensive agricultural residues and manure. India alone has a biogas potential greater than its entire natural gas use. While the European Union has tapped about 40 percent of its potential, India has used less than five.\r\n\r\nProduction Costs Vary by Region and Technology\r\nBiomethane costs generally fall between USD 10 and 30 per gigajoule. Asian emerging markets offer the lowest costs, with around 40 bcme available under USD 10 per GJ. In total, about 45 bcme can be produced globally at a cost equal to or less than current wholesale gas prices. These cost levels are already five times higher than the current global output of biomethane.\r\n\r\nEnvironmental Benefits and Performance Gaps\r\nThe appeal of biogases lies in their ability to turn waste into low-emission fuels while supporting circular economy goals. However, current biogas facilities still emit between 2 and 5.5 percent of methane during production. Best practices such as sealing digestate storage, capturing off-gases, and conducting regular leak detection are critical to minimising emissions. Most of the core technologies used to produce biogas and biomethane are already mature. Yet there is significant scope for innovation. These include methods to improve methane yields, reduce energy use and integrate biogas with other fuel production systems. For example, combining CO₂ from biomethane upgrading with hydrogen can create synthetic fuels, while digestate can be converted into fertilisers or biochar.\r\n\r\nBiogas in the Energy Mix Beyond 2035\r\nIn the current policy scenario, demand for biogases doubles by 2035 and nearly quadruples in the Announced Pledges Scenario. Annual investment, now around USD 2 billion, is expected to exceed USD 15 billion by 2050 and approach USD 45 billion under more ambitious targets. European production of biomethane already displaces about 15 thousand barrels per day of oil and 2 bcme of natural gas. By 2035, these figures are projected to reach 50 thousand barrels and 7 bcme. More than 30 feedstock types were assessed in terms of methane yield and sustainability. These include crop residues, animal manure, biowaste and woody biomass. A key cost driver is the collection radius of feedstocks. High-moisture inputs like manure are economical only when sourced within 10 kilometres, while crop residues can support collection up to 50 kilometres, especially in high-yielding regions. Larger biodigesters also offer cost advantages of up to 40 percent over small-scale units.\r\n\r\nSectoral Uses \r\nBiomethane is particularly effective in sectors where electrification is difficult. These include high-temperature industrial processes, maritime shipping and as feedstock for chemicals. It also supports flexible power generation and grid balancing, especially in seasonal scenarios. Although natural gas-fired power plants currently have lower levelised electricity costs, a carbon price of USD 100 per tonne would bring biomethane plants into the same cost range.\r\n\r\nGlobal Outlook to 2050 \r\nSince the last major outlook in 2020, the expected demand for biogases by 2040 has increased by over 30 percent. The energy crisis of 2022 has accelerated interest in biomethane as an alternative to imported natural gas. Electricity will account for 30 to 40 percent of final energy use by 2050, but liquid and gaseous fuels will continue to meet around half of total demand. The share of biogases in global gaseous fuel consumption rises from 1 percent in 2023 to 5 percent in the base scenario and 10 percent under announced pledges. Biogas capacity in the power sector is projected to grow from 11 GW in 2023 to 20 GW in 2035. Biomethane use in power will triple during the same period. Industrial and building applications will each consume around 60 to 65 bcme by 2050. Although the transport sector remains a small user, biomethane plays a role in fuel switching from oil and coal. Emerging markets, particularly China, India and Brazil, will drive future demand, with China alone accounting for 40 percent of new production. Today, only 4 percent of global feedstock potential is in use. This is expected to rise significantly, especially in the case of municipal waste and manure.\r\n\r\nSource: IEA (2025), Outlook for Biogas and Biomethane, IEA, Paris.\r\n",
+      "country": "India",
+      "created_at": "2025-07-28 07:57:41",
+      "created_by": "Admin",
+      "id": "68872d75aee2dfa06d554656",
+      "image_caption": "Source: IEA",
+      "mob_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Biogases’_Renewed_Role_in_Energy_Security_and_Sustainability:_IEA_20250728075741/Source:_Freepik.webp",
+      "news_type": "Reports",
+      "published_by": "Chemical Today",
+      "published_date": "2025-07-14",
+      "thumbnail_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Biogases’_Renewed_Role_in_Energy_Security_and_Sustainability:_IEA_20250728075741/Source:_Freepik.webp",
+      "title": "Biogases’ Renewed Role in Energy Security and Sustainability: IEA",
+      "visibility": true,
+      "web_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Biogases’_Renewed_Role_in_Energy_Security_and_Sustainability:_IEA_20250728075741/Source:_Freepik.webp"
+    },
+    "whitepaper": {
+      "category": "None",
+      "content": ": A control solution partner for greater process efficiency, batch repeatability, production flexibility, and agility for specialty chemical manufacturers.\r\n\r\nSpecialty chemical producers supply products that enhance the performance of consumer and industrial goods from pharmaceuticals to paints and adhesives. There are thousands of different specialty chemicals produced and supplied to a wide range of industries. In order to compete, specialty chemical companies offer a broad range of high-quality products, but what they all have in common is the need to be competitive which requires: \r\n\r\n•\tRapid product introduction to market to capitalize on R&D investment\r\n•\tGreater production flexibility to capitalize on opportunities for new products\r\n•\tControl manufacturing cost for high profitability\r\n•\tConsistent and reliable operations to deliver product on time, every time\r\n\r\n\r\nUnique challenges need specialized solutions\r\n\r\nLeveraging our experience in continuous and batch automation, Honeywell has provided solutions for applications for diverse industries. With material costs, labor, utilities, and overhead accounting for over 50 percent of manufacturing costs, it is key for plant operations to perform at peak efficiency to improve yield. \r\n\r\nThe right automation solution can meet this goal by addressing needs for product reliability, quality, agility, and efficiency - the keys to a sustainable competitive advantage. Product reliability requires tight integration between manufacturing and sales to know what to make in real time. Then, you have to be able to rely on production assets to deliver the product per the schedule. Product quality requires consistency and controlled results in every aspect of production operation from people to equipment, and the process itself. Agility requires the flexibility to adapt and respond to market opportunities while still making existing products profitably.\r\n\r\nExperion® LX- Purpose-built solution\r\n\r\nHoneywell’s solution for specialty chemicals sites addresses all these requirements in one scalable, integrated offering within the Experion® LXenvironment. Based on proven Experion Process Knowledge System (PKS) system, Experion LX offers various system functions and applications that are aimed at delivering safety, compliance, reliability, and efficiency and are inherently  available in the context of batch production. In addition, data from these various functions is presented in an integrated operating environment. \r\n\r\nControl System Platform\r\n\r\nWith Experion LX, your specialty chemicals manufacturing operation will have greater agility to respond to new customer demands and changing product requirements. It is a powerful, yet practical solution offering advanced optimization and batch control technology usually found in larger DCS platforms but at a more affordable price. \r\n\r\nExperion LX allows multiple batch recipes to execute completely in a reliable controller environment. This type of batch system offers a higher level of performance than a typical server-based system. The absence of a separate batch server removes associated costs and security/maintenance issues, and eliminates communication latency. Common engineering and operating tools for batch also provide a single, consistent platform for batch development and execution in compliance with S88 industry standards. \r\n\r\nExperion LX is optimized for mid-scale projects requiring a combination of loop, logic and batch automation. Any size installation benefits from access to a robust historian, controller-based batch sequencing, advanced control, and reporting capabilities. \r\n\r\nThe solution can scale from one engineering station, one operator station and one controller to multiple operator stations, redundancy and batch management. Also, the system provides reliable communication with thirdparty devices and drives, like PLCs, weigh scales and motor drives, integration of SCADA data and multiple I/O bus options. Because Experion LX is based on the Experion PKS platform, there are several major benefits that mid-scale sites can realize. \r\n\r\nFaster Projects and Reduced Lifecycle Costs\r\n\r\nExperion LX provides an agile automation platform to help manufacturers stay competitive, meet customer demands and respond quickly to opportunities. Experion LX includes a number of pre-built features like composite tag structures, over 300 standard displays and condition handlers. For example, once a point is built and loaded to the controller, a detail display for the point is automatically available on any operator station. Additionally, Experion LX provides integrated tag configuration so that a point and its associated alarms, history, and management of change are all configured at the same time in the same view. \r\n\r\nWith only one database for the entire system that can be accessed by all system functions, the need for building and maintaining multiple databases is eliminated. The configuration of interlock logic, control strategies, sequences and similar functions are done via drag-and-drop operations from prebuilt lists. Bulk build tools, template duplication, and other productivity tools are also included in this unified engineering environment. These capabilities translate into faster projects and less engineering effort to make ongoing changes to your automation strategy over the life of your system. Experion users have reported savings of $10-20k per year on support alone.\r\n\r\nIncreased Uptime\r\n\r\nDelivering quality products and meeting customer commitments are critical to business success. With Experion LX, you can easily make changes to your automation configuration without stopping production. Experion LX supports incremental editing and loading of control strategies online, addition of I/O, controllers and control strategies, and online upgrades. This allows customers to adapt to new challenges while still delivering on current promises. Experion LX also includes a simulation functionality to test changes before putting them on process without any special software or test programs.\r\n\r\nExperion LX leverages Experion architecture to provide data integrity and determinism so that you know when your logic will be processed. Experion LX is available with redundant controllers and servers to provide heartbeat failover operations. Tools needed to manage and monitor the system are integrated into Experion LX. For example, system resources like memory, processor utilization and disk drive space on the Experion nodes are monitored and can generate alarms on the operator window if they reach critical levels. Diagnostics from Experion LX controllers are also available at the operator stations. Finally, LX ships with all the necessary software to provide an interface to the operator. Honeywell ensures that the system components work together and that new versions of system software are compatible with other system components. These built-in features mean that Experion LX system is ready to deliver right out of the box.\r\n\r\nImproved Operational Efficiency\r\n\r\nHoneywell’s control platforms are built to optimize the operator experience. To increase\r\noperator effectiveness, Honeywell leads the Abnormal Situation Management (ASM)\r\nConsortium, which has improved integration of alarm, event, and alert management tools and provided guidelines to increase operator awareness, decision-making abilities and responsiveness, reducing operator-related incidents by as much as 40 percent.\r\n\r\nExperion LX has a sophisticated and rich alarm and alerting system, capable of handling alarms and alerts for your process. Experion is the first systems to incorporate a “ from the group up” open alarm and event system. This alarm system supports not only Experion application alarms, events and messages, but also provides full integration with third-party alarms and events via OPC. \r\n\r\nKey Features \r\n\r\nExperion LX enables chemical companies to realize the performance advantages of a true distributed control solution at a reduced cost. This purpose-built DCS can be tailored to fit your specific control applications regardless of their scope and extended at any time to include personnel and assets, and even to integrate entire business operations.\r\n\r\nPre-built Templates: Solution pack with a wide range of templates ideal for general control applications.\r\n\r\nBuilt-in Function Blocks: Designed to suit pharmaceutical applications and DCS requirements with specific function blocks, as well as support Custom Algorithm Blocks for building user-defined algorithms and data structures.\r\n\r\nApplication Development Toolkit: Develop custom applications that communicate with Experion LX through the Network Application Programming Interface (API), Server API, Open Database Connectivity (ODBC) Data Exchange, Server Automation Object, etc.\r\n\r\nFTE: Reliable, industrial-grade network providing multiple communication paths between nodes thus eliminating all single points of failure and utilizing commercial Ethernet technology for lower costs.\r\n\r\nDirect Station: Powerful operator station functions as a client to the Experion LX Engineering Server, and at the same time, allows direct access to the C300 controller for process data, alarms and messages.\r\n\r\nSafe Operations: In collaboration with the Abnormal Situation Management (ASM®) Consortium, Honeywell has developed safe operator functions like Procedural Operations to reduce incidents related to improper execution of operating procedures. It has also created alarm handling and display layouts to improve overall operator response to abnormal conditions.\r\n\r\nExperion PPC: Experion® PPC (Panel PC) is an industrial grade Touch Panel PC that extends Experion HMI for field operations and control at the machine and/or process level. This robust, easy to maintain hardware is built on open industry standards and provides the proven Experion User Interface with comprehensive data integration capabilities and consistent HMI experience that improves operator effectiveness. \r\n\r\nExperion PPC can perform field level operations as a remote Station to Experion LX and provide operational agility, improved operator workflow and standardization of HMI experience. \r\n\r\nSummary \r\n\r\nHoneywell’s automation solution for chemicals manufacturing enables sites to boost performance and agility, enable easy process adjustments, increase batch repeatability, achieve reliability targets, improve quality and drive down costs without the resources and investment of a large site. Batch producers with medium scale sites have limited resources and capital, and require a simple solution that provides the agility needed in the marketplace without sacrificing reliability and lifecycle costs. \r\n",
+      "country": "India ",
+      "created_at": "2024-04-05 04:48:00",
+      "created_by": "Unknown",
+      "id": "660f82802455abeab496a5b0",
+      "image_caption": "Driving Profitability With Perfect-Fit Control Solution.",
+      "mob_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Driving Profitability With Perfect-Fit Control Solution./Driving_Profitability_With_Perfect-Fit_Control_Solution._Driving_Profitability_With_Perfect-Fit_Control_Solution..jpg",
+      "news_type": "White Papers",
+      "published_by": "Chemical Today",
+      "published_date": "2018-05-26",
+      "thumbnail_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Driving Profitability With Perfect-Fit Control Solution./Driving_Profitability_With_Perfect-Fit_Control_Solution._Driving_Profitability_With_Perfect-Fit_Control_Solution..jpg",
+      "title": "Driving Profitability With Perfect-Fit Control Solution",
+      "visibility": true,
+      "web_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Driving Profitability With Perfect-Fit Control Solution./Driving_Profitability_With_Perfect-Fit_Control_Solution._Driving_Profitability_With_Perfect-Fit_Control_Solution..jpg"
+    }
+  },
+  "productSection": {
+    "advt1": {
+      "advt_type": {
+        "height": 800,
+        "id": "686f9babaee2dfa06d55457d",
+        "name": "7th Edition ICC Sustainability Conclave 2025",
+        "width": 1600
+      },
+      "contact_number": "11111111111",
+      "description": "......",
+      "id": "686f9c26aee2dfa06d55457e",
+      "image": "https://new-chemical-today.s3.amazonaws.com/advertisements/7th Edition ICC Sustainability Conclave 2025/7th Edition ICC Sustainability Conclave 2025/800_x_400_px_Banner_1.jpg",
+      "name": "7th Edition ICC Sustainability Conclave 2025",
+      "organization_name": "7th Edition ICC Sustainability Conclave 2025",
+      "redirect_url": "https://www.iccsustainabilityconclave.org/",
+      "subscription_end_date": "2025-08-07",
+      "subscription_start_date": "2025-07-10"
+    },
+    "advt2": {
+      "advt_type": {
+        "height": 400,
+        "id": "6878a67caee2dfa06d5545ce",
+        "name": "nynas-ad",
+        "width": 800
+      },
+      "contact_number": "11111111111",
+      "description": ".......",
+      "id": "6878a6aaaee2dfa06d5545cf",
+      "image": "https://new-chemical-today.s3.amazonaws.com/advertisements/Nynas Ad/Nynas Ad/Nynas_banner_800x400_pix.jpg",
+      "name": "Nynas Ad",
+      "organization_name": "Nynas Ad",
+      "redirect_url": "https://www.nynas.com/",
+      "subscription_end_date": "2025-08-21",
+      "subscription_start_date": "2025-07-17"
+    },
+    "advt3": {
+      "advt_type": {
+        "height": 400,
+        "id": "66ab24b4d7aaccb82f5744c3",
+        "name": "ShriramDigital",
+        "width": 800
+      },
+      "contact_number": "11111111111",
+      "description": "...................",
+      "id": "66ab2864d7aaccb82f5744c4",
+      "image": "https://new-chemical-today.s3.amazonaws.com/advertisements/Shriram-Digital/Shriram-Digital/20240731DCMShriramDigitalBanner800x400-YS_1.jpg",
+      "name": "Shriram-Digital",
+      "organization_name": "Shriram-Digital",
+      "redirect_url": "https://www.dcmshriram.com/our-businesses/chlor-vinyl-business",
+      "subscription_end_date": "2024-09-01",
+      "subscription_start_date": "2024-08-01"
+    },
+    "post1": {
+      "category": "None",
+      "content": " :  WEVO-CHEMIE GmbH has introduced tailored two-component silicone potting compounds designed to protect sensitive electronics in solar photovoltaic systems. As energy generation becomes increasingly decentralized, outdoor components such as power modules, switches, junction boxes, and connectors face rising demands for durability against heat, moisture, UV exposure, and mechanical stress.\r\n\r\nThe company’s WEVOSIL 2210x series, developed for compact electronics in PV optimisers, microinverters, and safety switches, offers strong heat dissipation, insulation, and heat resistance. Its self-adhesive properties enhance thermal management and reduce stress on sensitive parts, supporting efficient and reliable solar power operation.\r\n\r\nWith low Shore hardness and viscosity, the RTV silicones limit mechanical strain, preventing cracks or delamination in circuit boards, housings, and solder joints—even under severe temperature changes or vibration. Meeting UL 94 V-0 fire safety standards, the compounds can be deployed in rooftop and large-scale industrial installations.\r\n\r\nIn junction boxes, connectors, and cable assemblies, the silicones provide reliable sealing against moisture and UV radiation. Integrated bypass diodes, which protect shaded module areas, also benefit from their stability. Combining hydrophobic characteristics, high dielectric strength, and a gel-like consistency, WEVOSIL products improve the longevity of photovoltaic components, including those with complex geometries. Their free-flowing, low-viscosity formulation supports automated potting processes, ensuring consistent quality in high-volume PV production.\r\n\r\nContact:\r\nWEVO-CHEMIE GmbH\r\nSchönbergstr. 14\r\n73760 Ostfildern-Kemnat\r\nGermany\r\nTel: +49 711 167 61-0\r\nEmail: info@wevo-chemie.com\r\nWeb: www.wevo-chemie.de\r\n",
+      "country": "Germany",
+      "created_at": "2025-08-16 10:50:22",
+      "created_by": "Admin",
+      "id": "68a0626eaee2dfa06d55473d",
+      "image_caption": "Wevo unveils silicone potting solutions for long-lasting solar electronics.",
+      "mob_image_url": "https://new-chemical-today.s3.amazonaws.com/News/WEVOSIL_2210x_Series_Enhances_Safety_of_Photovoltaic_Systems_20250816105022/Wevo_unveils_silicone_potting_solutions_for_long-lasting_solar_electronics..webp",
+      "news_type": "Products",
+      "published_by": "Chemical Today",
+      "published_date": "2025-08-16",
+      "thumbnail_image_url": "https://new-chemical-today.s3.amazonaws.com/News/WEVOSIL_2210x_Series_Enhances_Safety_of_Photovoltaic_Systems_20250816105022/Wevo_unveils_silicone_potting_solutions_for_long-lasting_solar_electronics..webp",
+      "title": "WEVOSIL 2210x Series Enhances Safety of Photovoltaic Systems",
+      "visibility": true,
+      "web_image_url": "https://new-chemical-today.s3.amazonaws.com/News/WEVOSIL_2210x_Series_Enhances_Safety_of_Photovoltaic_Systems_20250816105022/Wevo_unveils_silicone_potting_solutions_for_long-lasting_solar_electronics..webp"
+    },
+    "post2": {
+      "category": "None",
+      "content": " :  SABIC has unveiled its LNP™ THERMOCOMP™ WFC061I compound, a non-brominated, non-chlorinated flame-retardant material designed to improve the safety and performance of electric vehicle control units (EVCUs). This Edison Award-winning specialty polymer is engineered for EVCU housing, offering robust protection against fire, smoke, impact, moisture, and other hazards while ensuring structural strength.\r\n\r\nThe compound can replace metal in EVCU covers, significantly reducing weight and enabling greater design flexibility. It also offers an alternative to halogenated flame-retardant polymers, which may have environmental drawbacks. Additional benefits include colorability, low warpage for higher production yield, and exceptional optical transmission for precision laser welding. The glass fiber-reinforced PBT is the first of its kind in the world to be laser-weldable.\r\n\r\n“The EVCU, which manages an EV’s electrical systems to ensure peak efficiency and a safe and enjoyable driving environment, relies on high-performance materials,” said Jenny Wang, Director, Formulation & Application, APAC, SABIC Polymers, Specialties business. “Specialty resins must provide flame retardancy, strength, stability, light weight and precision manufacturing. Based on our broad understanding of automotive power engineering trends and requirements, SABIC developed its new LNP THERMOCOMP WFC061I compound to help protect the EVCU and optimize its reliability and functionality.”\r\n\r\nSABIC’s compound achieves 20% optical transmission at 3.0 mm thickness, enabling laser welding—a method that joins two plastic components without adhesives, chemicals, fasteners, or vibration. This technology allows laser energy to pass through the transmissive part to an absorptive layer, generating heat at the interface to create a secure bond. The compatibility of LNP THERMOCOMP WFC061I with laser welding can streamline assembly, cut production time, and increase throughput for EV component manufacturers.\r\n\r\nContact:\r\nSABIC\r\nPO Box 5101, Riyadh 11422, \r\nSaudi Arabia\r\nTel: +966 (011) 225 8000\r\nWeb: www.sabic.com\r\n",
+      "country": "Saudi Arabia",
+      "created_at": "2025-08-13 11:05:09",
+      "created_by": "Admin",
+      "id": "689c7165aee2dfa06d554724",
+      "image_caption": "Award-winning PBT compound offers safer, lighter EV component solutions.",
+      "mob_image_url": "https://new-chemical-today.s3.amazonaws.com/News/SABIC_Launches_Non-Halogenated_FR_Compound_for_EVCU_Safety_20250813110509/Award-winning_PBT_compound_offers_safer,_lighter_EV_component_solutions..webp",
+      "news_type": "Products",
+      "published_by": "Chemical Today",
+      "published_date": "2025-08-13",
+      "thumbnail_image_url": "https://new-chemical-today.s3.amazonaws.com/News/SABIC_Launches_Non-Halogenated_FR_Compound_for_EVCU_Safety_20250813110509/Award-winning_PBT_compound_offers_safer,_lighter_EV_component_solutions..webp",
+      "title": "SABIC Launches Non-Halogenated FR Compound for EVCU Safety",
+      "visibility": true,
+      "web_image_url": "https://new-chemical-today.s3.amazonaws.com/News/SABIC_Launches_Non-Halogenated_FR_Compound_for_EVCU_Safety_20250813110509/Award-winning_PBT_compound_offers_safer,_lighter_EV_component_solutions..webp"
+    },
+    "post3": {
+      "category": "None",
+      "content": " :  Ravensberger has introduced RAVENOL CeramiX-Pro, a ceramic-based motor oil additive designed to lower mechanical wear and reduce internal friction in engines. The formulation combines advanced ceramic components with organic friction modifiers to improve lubrication and durability under varying operating conditions. According to the company, the organic modifiers work at a molecular level to enhance the lubricity of motor oil, improving lubrication film stability in areas of mixed and boundary lubrication. This, in turn, reduces the coefficient of friction, particularly at low sliding speeds.\r\n\r\nThe additive’s ceramic component—hexagonal boron nitride—forms a high-pressure-resistant protective layer on metal surfaces. This layer is resistant to high temperatures and oxidation, helping to limit mechanical friction and protect against fretting damage even in extreme environments.\r\n\r\nThe company highlights that modern car oil filters, often filtering particles between 10 and 30 microns, can trap larger ceramic particles used in some market products, potentially reducing filter efficiency and risking drivetrain issues. \r\n\r\nRAVENOL CeramiX-Pro uses ultra-fine ceramic particles that remain small enough to pass through even high-performance filters without causing blockages. The product is compatible with all modern gasoline, diesel, and hybrid engines, including those with turbochargers, and works with commercially available engine oils. Ravensberger recommends use every 50,000 km or during oil changes for sustained protection and performance.\r\n\r\nContact:\r\nRavensberger Schmierstoffvertrieb GmbH\r\nJöllenbeckerstraße 2\r\n33824 Werther, Germany\r\nTel: +49 5203 97190\r\nEmail: export@ravenol.de\r\nWeb: www.ravenol.de\r\n",
+      "country": "Germany",
+      "created_at": "2025-08-11 11:41:18",
+      "created_by": "Admin",
+      "id": "6899d6deaee2dfa06d5546fb",
+      "image_caption": "New additive blends ceramic components and friction reducers for enhanced engine performance. (Source: Ravensberger)",
+      "mob_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Ravensberger_Launches_Ceramic-Based_Engine_Oil_Additive_for_Wear_Reduction_20250811114118/New_additive_blends_ceramic_components_and_friction_reducers_for_enhanced_engine_performance._(Sourc.webp",
+      "news_type": "Products",
+      "published_by": "Chemical Today",
+      "published_date": "2025-08-11",
+      "thumbnail_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Ravensberger_Launches_Ceramic-Based_Engine_Oil_Additive_for_Wear_Reduction_20250811114118/New_additive_blends_ceramic_components_and_friction_reducers_for_enhanced_engine_performance._(Sourc.webp",
+      "title": "Ravensberger Launches Ceramic-Based Engine Oil Additive for Wear Reduction",
+      "visibility": true,
+      "web_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Ravensberger_Launches_Ceramic-Based_Engine_Oil_Additive_for_Wear_Reduction_20250811114118/New_additive_blends_ceramic_components_and_friction_reducers_for_enhanced_engine_performance._(Sourc.webp"
+    },
+    "post4": {
+      "category": "None",
+      "content": " :  At the K 2025 International Trade Fair for Plastics and Rubber, WACKER will present a new silicone rubber designed to insulate busbars in high-voltage electric vehicle batteries. ELASTOSIL® R 531/60, processable by extrusion, offers a cost-effective sheathing solution that enhances passenger and fire safety. \r\n\r\nIn the event of fire, the material ceramifies, forming an electrically insulating protective layer that prevents short circuits. As EV voltages continue to increase from 300 V to 900 V, demands on insulation and wiring have intensified, especially for busbars—aluminum or copper rails that distribute current between battery cells and modules.\r\n\r\n ELASTOSIL® R 531/60 is flame-resistant, prevents leakage currents and energy losses, and maintains insulation at operating temperatures up to 205°C. During fire exposure, it forms a solid ceramic layer that remains intact at 800–1000°C, ensuring continued insulation. With a hardness of 60 Shore A, it enables cost-effective extrusion processing, allowing busbars to be bent and adapted to battery surface structures without cracking.\r\n\r\n The silicone’s high flexibility and tear strength ensure no fractures occur even after impact tests, and its durability extends to withstanding temperature fluctuations down to –40°C. It also protects against vibration and impacts from the vehicle body, ensuring long-term safety and reliability of EV battery systems.\r\n\r\nContact :\r\nWacker Chemie AG\r\nMedia Relations\r\nFlorian Degenhart\r\nTel: +49 89 6279-1601\r\nEmail: florian.degenhart@wacker.com\r\n\r\n",
+      "country": "Germany",
+      "created_at": "2025-08-08 06:18:47",
+      "created_by": "Admin",
+      "id": "689596c7aee2dfa06d5546e1",
+      "image_caption": "WACKER ELASTOSIL® Busbar. (Source: WACKER)",
+      "mob_image_url": "https://new-chemical-today.s3.amazonaws.com/News/WACKER’s_Extrusion-Ready_Silicone_Improves_Safety_and_Efficiency_of_EV_Busbars_20250808061847/WACKER_ELASTOSIL®_Busbar._(Source:_WACKER).webp",
+      "news_type": "Products",
+      "published_by": "Chemical Today",
+      "published_date": "2025-08-08",
+      "thumbnail_image_url": "https://new-chemical-today.s3.amazonaws.com/News/WACKER’s_Extrusion-Ready_Silicone_Improves_Safety_and_Efficiency_of_EV_Busbars_20250808061847/WACKER_ELASTOSIL®_Busbar._(Source:_WACKER).webp",
+      "title": "WACKER’s Extrusion-Ready Silicone Improves Safety and Efficiency of EV Busbars",
+      "visibility": true,
+      "web_image_url": "https://new-chemical-today.s3.amazonaws.com/News/WACKER’s_Extrusion-Ready_Silicone_Improves_Safety_and_Efficiency_of_EV_Busbars_20250808061847/WACKER_ELASTOSIL®_Busbar._(Source:_WACKER).webp"
+    }
+  },
+  "spotlightSection": {
+    "horizontal_banner": {
+      "advt_type": {
+        "height": 270,
+        "id": "6890370eaee2dfa06d5546a8",
+        "name": "August-magazine-live",
+        "width": 3210
+      },
+      "contact_number": "11111111111",
+      "description": "......",
+      "id": "6890373baee2dfa06d5546aa",
+      "image": "https://new-chemical-today.s3.amazonaws.com/advertisements/August-magazine-live/August-magazine-live/March_2025_Magazine_is_live.gif",
+      "name": "August-magazine-live",
+      "organization_name": "August-magazine-live",
+      "redirect_url": "https://chemicaltoday.in/e-magazines",
+      "subscription_end_date": "2025-08-04",
+      "subscription_start_date": "2025-08-04"
+    },
+    "management1": {
+      "category": "None",
+      "content": " :  Chemical Today spoke with Ravindra Jagasia, Global Business Development (Automation) – Strategic Growth Initiatives at R. STAHL Group, during the ARC Industry Forum India held on 10-11 July 2025 at Bengaluru, India. The discussion centered on how the company is contributing to the evolution and adoption of Open Process Automation Systems (OPAS) and the potential for India to leapfrog in next-generation automation solutions.\r\n\r\nFrom an industrial automation perspective, how is R. STAHL positioning itself to align with and advance the vision of Open Process Automation?\r\n R. STAHL is in a niche market of hazardous area products—electrical and automation. Our automation portfolio is very flexible; the IS1+ can be connected with all the DCS (Distributed Control System) and PLC (Programmable Logic Controller) vendors. That flexibility and the capabilities of our products allow us to be ready for the future. End users or the people who are building plants can implement O-PAS right into the hazardous areas, which would otherwise be limited only to the control room or safe area. \r\n\r\nWhat were the major challenges in the industry that led to the formation of the O-PAS standard?\r\nHistorically, there’s been a situation where process industries e.g., chemical, petrochemical, and refining plants, have faced major challenges when products become obsolete, when companies merge, or when certain product lines get discontinued. Migrating those legacy systems into newer ones has always been difficult and expensive. Another issue was that you were locked into proprietary systems. These might not have had all the best-in-class software applications or incorporated the latest technologies, e.g., AI, to support the user’s growing needs. And then there was the limitation around doing upgrades or updates. So with all these challenges in mind, a few end users, led by ExxonMobil, formed the Open Process Automation Forum (OPAF) in 2016. Since then, based on those early issues identified, O-PAS has been moving forward with testbeds and proofs of concept. Today, companies like ExxonMobil, Petronas, Petrobras, Shell, Reliance, and Aramco have built their testbeds, and ExxonMobil has already implemented the O-PAS Lighthouse project in a live application, besides having a roadmap for their next projects. Reliance also mentioned during their presentation about their roadmap. There are several other end users who are specifying O-PAS in their specifications. \r\n\r\nFor someone wanting to enter this space or become part of the Open Process Automation Forum, how can they begin?\r\nOne way is to join the O-PAS membership. That gives a direct look at how the technology is being developed. And if they’re from the industrial automation or instrumentation and control field, they can even contribute with their subject matter expertise. That’s one route. The other way is to get access to the published standards—these are available under license. Then they can evaluate which parts of the standard apply to their business and build a product or service around that. This could be a good opportunity for startups. Alternatively, MSME companies like control system integrators can join the OPAF ecosystem and implement O-PAS based control systems, leveraging their industry domain expertise.\r\n\r\nO-PAS has been globally recognized and in India for a few years now. Do you think there are still gaps in awareness or adoption in the Indian market?\r\nOne major element is change. Making a change is always tough. Human factors and comfort zones play a big role. That hesitation becomes a critical decision factor when trying to move from a legacy or proprietary control system to something open. Another aspect is resources. Right now, Reliance is the only one in India to have done a testbed, and they did it in collaboration with Yokogawa. But if we want this technology to become more democratized or socialized, we need more system integrators—more companies that can offer end-to-end solutions. That’s the ecosystem we are trying to build, and that’s one reason we’re here at the ARC Forum in India—to get people involved, to introduce them to the technology, help them understand it, and encourage them to build their testbeds. Once they’re in their comfort zone, they can take this forward to the end users.\r\n\r\nHow do you see academic institutions contributing to the growth of O-PAS in India?\r\nOne part of technology adoption can happen through academic institutions. Engineering colleges could start talking about O-PAS in their curriculum and create testbeds or lab environments where students can experiment and get hands-on experience. Most of the older generation grew up using tools like multimeters. But today’s generation wants to access everything digitally—through laptops, desktops, or mobile devices. O-PAS as a technology enables that kind of accessibility. So, this could be another way India leapsfrog in terms of adoption—by preparing the next generation through education and faster on-ground implementation.\r\n",
+      "country": "India",
+      "created_at": "2025-07-31 05:56:02",
+      "created_by": "Admin",
+      "id": "688b0572aee2dfa06d55467f",
+      "image_caption": "Ravindra Jagasia, Global Business Development (Automation) – Strategic Growth Initiatives at R. STAHL Group.",
+      "mob_image_url": "https://new-chemical-today.s3.amazonaws.com/News/From_Proprietary_Systems_to_Open_Standards:_The_O-PAS_Revolution_Explained_20250731055602/Ravindra_Jagasia,_Global_Business_Development_(Automation)_–_Strategic_Growth_Initiatives_at_R._STAH.webp",
+      "news_type": "Management",
+      "published_by": "Chemical Today",
+      "published_date": "2025-07-31",
+      "thumbnail_image_url": "https://new-chemical-today.s3.amazonaws.com/News/From_Proprietary_Systems_to_Open_Standards:_The_O-PAS_Revolution_Explained_20250731055602/Ravindra_Jagasia,_Global_Business_Development_(Automation)_–_Strategic_Growth_Initiatives_at_R._STAH.webp",
+      "title": "From Proprietary Systems to Open Standards: The O-PAS Revolution Explained",
+      "visibility": true,
+      "web_image_url": "https://new-chemical-today.s3.amazonaws.com/News/From_Proprietary_Systems_to_Open_Standards:_The_O-PAS_Revolution_Explained_20250731055602/Ravindra_Jagasia,_Global_Business_Development_(Automation)_–_Strategic_Growth_Initiatives_at_R._STAH.webp"
+    },
+    "management2": {
+      "category": "None",
+      "content": " :  Sriram Paramanand, Director – Partnering at Rockwell Automation India, shares how automation, AI, and digital integration are reshaping India’s chemical industry by enabling smarter, safer, and more sustainable manufacturing.\r\n\r\nYou’ve spent nearly 30 years in industrial automation and now lead strategic partnerships at Rockwell Automation India. From where you stand, how is automation reshaping India’s manufacturing landscape, especially in complex sectors like chemicals?\r\nAutomation is transforming India’s manufacturing sector, especially in the chemical industry, where precision, efficiency, and sustainability are critical. Technologies such as robotics, AI-powered predictive maintenance, and real-time analytics are streamlining operations, cutting energy use, and minimizing environmental impact. \r\nFrom my vantage point at Rockwell Automation, I see a clear shift toward collaborative ecosystems, where automation and digitalization enable seamless interaction between manufacturers, suppliers, and customers. Digital platforms are breaking down silos, allowing for real-time collaboration and customer-centric innovation. As India continues to embrace Industry 4.0, automation is not just reshaping manufacturing—it’s positioning the country as a global leader in sustainable, agile, and technology-driven industrial growth.\r\n\r\nWhen it comes to mid-sized chemical companies in India, what are the biggest barriers to adopting digital technologies? \r\nA primary hurdle is a deep-seated cultural resistance and traditional mindset, where leaders often view digital initiatives as a cost, not a strategic advantage. These companies often operate in niche markets with rapid product changeovers, leaving little room for major tech upgrades. Many serve as contract manufacturers, so external clients—not internal priorities—tend to dictate investment decisions. Existing legacy infrastructure and IT/OT disconnects complicate integration, exacerbated by process data confidentiality concerns. Budget constraints and tight profit margins from being privately owned or proprietorships restrict significant CapEx / OpEx. Core focus remains on labor, safety, and R&D. Furthermore, stringent regulatory compliances add complexity. Workforce-related issues, such as skill gaps and generational divides, further complicate implementation. Lastly, intense competition often forces a short-term focus, leaving little appetite for long-term digital strategies.\r\n\r\nWhat kind of shift is needed to overcome these challenges?\r\nThe first shift must be in mindset. Leadership needs to champion digital technology—not just as a tool for efficiency, but as a strategic enabler. This means strategic leadership championing technology, building employee confidence by emphasizing tech as an aid, not a job replacer.  Next, investment must be justified with clear, phased ROIs. Partnering with expert consultants is key. Finally, ecosystem support through empowering staff and partners ensures sustained contribution. This integrated approach, primarily driven by a change in thinking, is crucial for successful digital transformation.\r\n\r\nDigital twins and advanced analytics are often called game-changers. How do you see them creating real impact in optimizing batch processes and improving operational safety in chemical plants? \r\nDigital twins and advanced analytics offer tremendous value. They enable real-time modeling of equipment and workflows, which helps reduce variability, improve yields, and shorten cycle times. For instance, Rockwell Automation’s Batch Performance Analytics helps identify control gaps and shorten cycle times, significantly improving production outcomes. Rockwell Automation is at the forefront of this transformation, providing end-to-end solutions that integrate digital twins, advanced analytics, and predictive maintenance tools. By empowering chemical manufacturers with data-driven insights and scalable technologies, Rockwell enables smarter, safer, and more sustainable operations, reducing shutdowns, minimizing batch deviations, and accelerating innovation across the industry.\r\n\r\nEnergy efficiency is just one part of the sustainability conversation. In your view, how else can automation help chemical manufacturers move toward more sustainable operations?\r\nEnvironmental, sustainability and governance (ESG) goals are an accepted part of the chemical industry, and most companies have stated goals to address climate change. As green chemistry, circular economy, and decarbonization start to materialize, chemical producers must adapt their operations to comply or risk getting left behind by competition. Automation plays critical role in moving towards more sustainable operations. To improve operations, it’s necessary to measure them. Adopting Manufacturing Operations Management (MOM) systems become vital in helping to meet sustainability goals. These MOMs track and visualize utility (WAGES) usage, emissions, effluents, and other waste streams. Most companies address efficiency first due to the lower investment costs vs. costly process modifications. As a result, the adoption of advanced control and optimization along with inferential sensors can be a successful first step on the road to a more sustainable operation. For example, our portfolio of model predictive control technologies, advanced modelling, and AI/ML has helped petrochemical manufacturers reduce their off-grade material.\r\n\r\nIn high-risk chemical environments, how can AI enhance safety and operator decision-making without diminishing the value of human expertise on the plant floor?\r\nArtificial Intelligence (AI) is reshaping the manufacturing landscape, bringing unprecedented capabilities to the industry. According to the World Economic Forum, AI empowers individuals with \"unprecedented superpowers, enhancing efficiency, driving innovation, improving safety, and supporting sustainability. As manufacturers face growing skills shortages and rising demands for operational efficiency, AI-powered automation is emerging as a critical solution to bridge these gaps and future-proof industrial operations. Factories of the future will go beyond traditional automation by integrating AI more deeply into their operations. This includes enhancing sensor intelligence through machine vision, boosting computational power within control systems, and deploying learning agents that support real-time decision-making and fault detection. The result: greater productivity, improved safety, and more resilient operations.\r\n\r\nLooking ahead, what is your vision for the connected chemical plant of the future? How do you see technologies like edge computing and cloud-based solutions playing a role in this transformation?\r\nThe connected, information-driven approach to chemical production presents new, nearly unlimited opportunities to monitor and improve production performance through real-time production performance insights. The technologies used in The Connected Chemical Plant are far superior to what was available just 10 years ago. \r\n\r\nThe connected chemical plant can help chemical producers: \r\n•  Merge IT and OT systems that have historically remained separate to bring data in real-time to the right decision makers. \r\n•  Provide seamless connectivity across people, processes, and technologies.\r\n•  Transform data into actionable information that provides unprecedented insights.\r\n•  Bridge the workforce gap by utilizing technology to contextualize and present information intuitively to the newer generation of operations personnel and use AR/VR technologies to support them.\r\n\r\nCloud computing has evolved from traditional on-premises deployment models, offering a more flexible and scalable approach to managing industrial operations. By enabling the transmission of large volumes of data—from equipment, machines, vehicles, controllers, and more—to IT/OT applications over the internet, cloud computing abstracts the underlying infrastructure from the end user. This model offers several key advantages, including scalability, cost-efficiency, and operational simplicity. Organizations can scale cloud services on demand, gaining flexibility without the need for heavy upfront investments. With the cloud provider managing the software and back-end infrastructure, businesses can significantly reduce personnel and infrastructure costs. Additionally, the complexity of hardware management is minimized, allowing users to request additional computing resources seamlessly, as needed.\r\n\r\nEdge computing processes data at the source, enabling low-latency responses for critical systems. This reduces network load, improves compliance, and enhances privacy. Cloud platforms, on the other hand, offer scalability and flexibility, allowing remote access to insights without heavy infrastructure investments. Together, edge and cloud technologies make industrial data more accessible, secure, and actionable. As newer technologies like AR/VR enter the mix, they’ll help bridge generational knowledge gaps and support the next-gen workforce.\r\n",
+      "country": "India",
+      "created_at": "2025-07-31 05:07:18",
+      "created_by": "Admin",
+      "id": "688afa06aee2dfa06d55467d",
+      "image_caption": "Sriram Paramanand, Director – Partnering at Rockwell Automation India.",
+      "mob_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Future_of_the_Connected_Chemical_Plant:_Edge,_AI,_and_Cloud_in_Action_20250731050718/Sriram_Paramanand,_Director_–_Partnering_at_Rockwell_Automation_India..webp",
+      "news_type": "Management",
+      "published_by": "Chemical Today",
+      "published_date": "2025-07-24",
+      "thumbnail_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Future_of_the_Connected_Chemical_Plant:_Edge,_AI,_and_Cloud_in_Action_20250731050718/Sriram_Paramanand,_Director_–_Partnering_at_Rockwell_Automation_India..webp",
+      "title": "Future of the Connected Chemical Plant: Edge, AI, and Cloud in Action",
+      "visibility": true,
+      "web_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Future_of_the_Connected_Chemical_Plant:_Edge,_AI,_and_Cloud_in_Action_20250731050718/Sriram_Paramanand,_Director_–_Partnering_at_Rockwell_Automation_India..webp"
+    },
+    "management3": {
+      "category": "None",
+      "content": " :  Dr. Sudha Kannan, Vice President – IP & Statutory Compliance (R&D), Advanced Materials, Aditya Birla Chemicals (Grasim Industries), shares how her unique academic blend in chemistry, information science, and patent law shaped her R&D leadership journey. She discusses the evolution of IP and regulatory frameworks in India, the strategic role of compliance in innovation, mentoring next-gen professionals, and how sustainability is now central to chemical product development.\r\n\r\nYour academic journey spans Chemistry, Information Science, and Patent Law, a rare combination. How did this multidisciplinary education influence the direction and depth of your career?\r\nThe multidisciplinary path unfolded organically and gave me a holistic understanding of research as a concept. A common thread linking all my studies and work has been research. While research often means creating something new—a process, product, or design—in the business context, it must lead to tangible value. For research to contribute to commercial success, it needs to be market-ready, viable, competitive, and legally compliant. I believe that my multidisciplinary background helped me contribute and support research by ensuring that we have a well IP protected product that is also compliant and in sync with our sustainability goals.\r\n\r\nOver the years, you’ve seen the chemical and pharmaceutical sectors evolve significantly. In your view, how have R&D, intellectual property, and regulatory compliance transformed, and what role have you played in this shift?\r\nWhen I began my career three decades ago, India had very little awareness of IP laws or regulatory requirements. There was negligible focus, even in the pharma sector, on research as a tool to create market advantage. The 1990s was a period when the seeds of R&D, as we know it today in industry, were just being sown in India. The early 2000s saw the enactment of the revised Patent Act to include product patents, which in turn transformed the R&D focus and the patent landscape for Indian companies.\r\n\r\nMSMEs also joined a few years later upon realising the potential of an IP-protected portfolio. Those were interesting times—not only for industry and academic institutions but also for professionals like us—when every day presented a new challenge, and we were all sharing notes to find solutions and a way forward. In the last decade and a half, alongside the maturing IP scenario, India and Indian organisations have also joined global initiatives on regulations and sustainability. The research landscape in relation to sustainability is still evolving, and we can expect many more changes in the years to come. The chemical industry is currently amid finding ways to offer efficient products and solutions in a sustainable manner. As for the role of professionals like me, I believe our contribution has been to provide the backstory of certain paths that were taken and to share insights on the ones that led to dead ends. It is crucial for us to share our knowledge so that the right decisions can be taken efficiently, avoiding wasted efforts.\r\n\r\nAs a senior leader in R&D and compliance, what are some of the key challenges you face in aligning innovation with regulatory and IP frameworks in a large industrial setup?\r\nThese three areas—regulatory, IP, and innovation—are closely connected and must converge toward a common goal. Earlier, there were knowledge gaps in how regulations affect innovation or how IP supports market leadership. \r\nI don’t see that as a major challenge today. Though I do believe that there is still a long way to go when regulatory and IP will be well integrated into innovation strategies. \r\n\r\nHaving mentored professionals across departments, what guidance do you typically offer to young talent entering fields like regulatory affairs or intellectual property management?\r\nBoth regulatory and intellectual property management are activities that are essential for our products to be successful in the marketplace. They are specialised roles with significant impact, and they demand a willingness to keep learning as laws and requirements evolve. All those who wish to have a career in these field should also be able to connect with peer group and seniors. Every situation is unique and requires a customised solution and hence one should be aware that there isn’t a one fits all solution. \r\n\r\nAs a registered Patent Agent, how do you integrate legal and scientific perspectives to strengthen innovation \r\nstrategy and safeguard research outcomes?\r\nInnovations often arise from solving real-world problems, but to protect them, they must be well-defined legally. Patent laws though have common framework globally, many countries do define their boundaries. Thus, defining the scope of invention attains significance. As patent professionals, we work closely with scientists to craft strong, clear claims that support a robust patent portfolio.\r\n\r\nHow is the increasing focus on sustainability shaping regulatory thinking today, and how are you incorporating this into compliance planning and execution?\r\nIncreasingly authorities and customers are seeking sustainable processes and products, and we as manufacturers have covered substantial distance. Looking back to where we were even a few years ago, we realise that we have not only made our products more sustainable but also changed the mindset of our teams. The quest for developing a sustainable process/product comes more naturally and easily. Sourcing locally, sustainable water usage, use of alternate energy are all considered while making any new assembly or process modification in manufacturing locations. During new product development, regulatory checks are now a standard part of R&D. Our regulatory team also actively supports new chemical development by conducting studies and handling registrations in key global markets.\r\n\r\nInterviewed By Shraddha Verma\r\n",
+      "country": "India",
+      "created_at": "2025-07-31 09:02:31",
+      "created_by": "Admin",
+      "id": "688b3127aee2dfa06d554684",
+      "image_caption": "Dr. Sudha Kannan, Vice President – IP & Statutory Compliance (R&D), Advanced Materials, Aditya Birla Chemicals (Grasim Industries).",
+      "mob_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Crafting Market-Ready Innovations through IP and Regulatory Synergy/Dr._Sudha_Kannan_Vice_President_IP__Statutory_Compliance_RD_Advanced_Materials_Aditya_Birla_Chemicals_Grasim_Industries._Web_Image_82.webp",
+      "news_type": "Management",
+      "published_by": "Chemical Today",
+      "published_date": "2025-07-19",
+      "thumbnail_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Crafting Market-Ready Innovations through IP and Regulatory Synergy/Dr._Sudha_Kannan_Vice_President_IP__Statutory_Compliance_RD_Advanced_Materials_Aditya_Birla_Chemicals_Grasim_Industries._Web_Image_82.webp",
+      "title": "Crafting Market-Ready Innovations through IP and Regulatory Synergy",
+      "visibility": true,
+      "web_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Crafting Market-Ready Innovations through IP and Regulatory Synergy/Dr._Sudha_Kannan_Vice_President_IP__Statutory_Compliance_RD_Advanced_Materials_Aditya_Birla_Chemicals_Grasim_Industries._Web_Image_82.webp"
+    },
+    "management4": {
+      "category": "None",
+      "content": " :  As the chemical industry faces mounting pressure to accelerate climate and circularity targets, the Global Impact Coalition (GIC) has launched a new Value Chain Partner initiative aimed at fostering deeper collaboration with consumer-facing brands. This move underscores the pressing need to address Scope 3 emissions and co-develop scalable solutions through collaborative action. In this context, Chemical Today interviewed Charlie Tan, CEO of GIC, to understand how GIC is turning intent into impact and how regional regulations and value chain dynamics are shaping the path forward.\r\n\r\nWhat inspired the formation of the Global Impact Coalition, and which specific gap in the chemical value chain is it aiming to close?\r\nThe Global Impact Coalition (GIC) was formed out of a clear understanding: the chemical industry plays a critical role in the global transition to net-zero and circularity but cannot go it alone. Our founding members, CEOs and senior executives of leading global chemical companies, saw a need for a pre-competitive platform that could catalyze system-level collaboration, not only within industry but across entire value chains. The specific gap we aim to close is often called the “last mile of impact”: the disconnect between breakthrough innovations and their real-world deployment at scale. Whether it’s advanced recycling technologies or sustainable feedstocks, many of these solutions exist in silos or pilot stages but lack the technical, regulatory, and financial alignment to scale up and go mainstream. That’s where GIC comes in: as an accelerator platform to enable cross-industry collaboration and address sustainability challenges no single company can solve alone. Our role is to help de-risk first movers, align resources, and build the coalitions needed to turn intent into investment and innovation into impact.\r\n\r\nIn practical terms, how is GIC enabling collaboration between consumer goods companies and chemical suppliers? Are there dedicated tools, platforms, or structured engagement models in place?\r\nWe recently launched our Value Chain Partner initiative to strengthen collaboration with consumer goods companies, an essential step to address Scope 3 emissions and enable circular solutions at scale. It is a structured, solution-focused partnership model where brand owners and chemical suppliers work together to identify bottlenecks and develop joint solutions to overcome them.\r\nThe initiative is built on a few core principles:\r\n•  Real-world projects, not just dialogue\r\n•  Working groups and pilots, focused on solving shared challenges\r\n•  Shared metrics and milestones to track progress and drive accountability\r\nThrough this initiative, we’re opening the door for consumer-facing companies to actively contribute to our existing and future projects by either providing demand signals, sharing data and design insights, or co-investing in pilot activities. By working side-by-side with suppliers and recyclers, they can help shape more effective, scalable solutions and ensure these meet downstream performance, quality, and cost expectations.\r\n\r\nWhat strategies are being considered to involve mid-sized or regional players from developing economies, particularly those lacking robust sustainability frameworks?\r\nThat’s a key priority for us. Climate and circularity challenges are global, and solutions must be inclusive. While GIC began as a CEO-led coalition of large multinational chemical companies, we are intentionally expanding to involve a broader ecosystem, including regional players, research institutions, and innovators from emerging markets. Many of our projects explore new and emerging technologies, welcoming innovations from anywhere in the world. We aim to ensure that promising ideas—regardless of their origin—have a clear pathway to scale. One strategy we’re pursuing is localized demonstration pilots, designed to validate scalable models in real-world settings and adapt them to local contexts. Another important lever is knowledge transfer. Through GIC working groups, we openly share technical insights, best practices, and learnings from pilots that others can adopt or adapt, avoiding duplication and accelerating collective progress.\r\n\r\nWhen it comes to setting the agenda, what factors influence which sustainability challenges GIC tackles first: urgency, member input, regulatory shifts, or long-term impact potential?\r\nIt’s a combination, but we prioritize action where three conditions align:\r\n•  Urgency, in terms of regulatory or societal pressure\r\n•  Collective leverage, meaning a shared challenge that multiple GIC members face\r\n•  Pathways to scalable impact, i.e., the potential for system-level transformation\r\nWe don’t chase trends—we focus on deep, structural issues that require cross-industry solutions with a clear, commercially viable business case. Our current projects, focused on topics like circular municipal solid waste, sustainable methanol production, and sustainable biomass sourcing, emerged through joint prioritization by member companies and are rooted in real bottlenecks faced across regions. Of course, we stay agile. If a regulatory shift like the EU’s evolving End-of-Life Vehicles Directive or new PFAS bans creates a new opportunity—or risk—GIC can rapidly convene the right stakeholders to respond collectively.\r\n\r\nCan you walk us through some of GIC’s flagship initiatives, such as circular waste stream development or PFAS remediation? What measurable outcomes are you working toward?\r\nCertainly, these are examples of some of the projects currently underway at GIC. Our Circular Municipal Solid Waste project aims to unlock the carbon value stored in waste by converting it into high-quality recycled or renewable feedstocks. The focus is on mapping, simplifying, and piloting circular loops within the municipal solid waste (MSW) value chain—identifying the most promising recycling technologies and directing waste streams into high-value circular products. One of our flagship pilots in Europe focuses on Automotive Plastics Circularity. Today, over 80% of post-use automotive plastic ends up in landfills or incineration. The goal is to reverse that trend by piloting end-to-end systems—from improved dismantling and sorting to advanced recycling technologies and reintegration into new vehicle parts. We're targeting measurable increases in recycled plastic content and reductions in CO₂ footprint across the value chain. On PFAS Remediation and Destruction, we’ve convened a cross-industry working group to identify scalable alternatives and mitigation pathways in line with regulatory developments in the EU and U.S. We're also supporting early-stage technology mapping to ensure innovation can keep pace with evolving policy.\r\n\r\nTo what extent do varying regional regulations, such as differences between the EU, U.S., and Asia, impact the Coalition’s ability to drive unified, global progress?\r\nRegional variation is both a challenge and an opportunity. On one hand, diverging regulations can complicate global coordination and create uncertainty for long-term investments. On the other hand, frontrunner regions like the EU often set a de facto pace for others to follow. At GIC, we seek to turn regulatory differences into learning opportunities. We actively monitor policy changes across regions and use that information to shape our strategy. For example, if an EU regulation like the ELV Directive encourages momentum on recycled content, we will test circularity pilots in that area and adapt the results for different regulatory environments, such as the U.S. or India.\r\n\r\nHow does GIC ensure that these collaborations move beyond dialogue and result in real, scalable change across the chemical and consumer goods industries?\r\nThat’s the heart of GIC’s model. We are deliberately action-oriented. Every initiative we launch is designed with a clear outcome in mind—whether that’s a scalable pilot that can be replicated globally or a joint feasibility study that leads into commercial scale-up for maximum impact.\r\nOur approach to creating real-world impact is grounded in three core principles:\r\n•  Collaboration, not competition: We bring the right partners together—across the value chain and beyond—to co-design and co-deliver practical solutions that cannot be tackled by any one company alone.\r\n•  Action, not advocacy: We focus on doing the hard work of implementation, bridging the gap between ambition and execution.\r\n•  Solutions, not frameworks: We focus on creating tangible solutions, not just designing frameworks for action.\r\n\r\nTo ensure transparency and trust, we act as a neutral facilitator, enabling open dialogue among competitors and value chain partners. Our projects are built on joint ownership, giving all actors—suppliers, brands, recyclers, and others—a real stake in the outcome. And we apply progress tracking using shared metrics that monitor results over time. Most importantly, we keep the bar high. GIC doesn’t exist to admire the problem—we exist to solve it. By working together, we strive to reduce the cost and complexity of sustainable solutions across the chemicals value chain—so they can be scaled more broadly, adopted more swiftly, and make a real impact on the journey toward a more sustainable future.\r\n\r\n",
+      "country": "Switzerland",
+      "created_at": "2025-07-29 05:57:56",
+      "created_by": "Admin",
+      "id": "688862e4aee2dfa06d55465f",
+      "image_caption": "Charlie Tan, CEO of Global Impact Coalition(GIC).",
+      "mob_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Building_Coalitions_to_Turn_Sustainability_Admiration_into_Real_Impact_20250729055756/Charlie_Tan,_CEO_of_Global_Impact_Coalition(GIC)..webp",
+      "news_type": "Management",
+      "published_by": "Chemical Today",
+      "published_date": "2025-07-11",
+      "thumbnail_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Building_Coalitions_to_Turn_Sustainability_Admiration_into_Real_Impact_20250729055756/Charlie_Tan,_CEO_of_Global_Impact_Coalition(GIC)..webp",
+      "title": "Building Coalitions to Turn Sustainability Admiration into Real Impact",
+      "visibility": true,
+      "web_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Building_Coalitions_to_Turn_Sustainability_Admiration_into_Real_Impact_20250729055756/Charlie_Tan,_CEO_of_Global_Impact_Coalition(GIC)..webp"
+    },
+    "plant_visit": {
+      "category": "None",
+      "content": " :  In an industry often defined by legacy players and incremental growth, Shivtek Spechemi Industries Ltd is rewriting the rulebook with bold investments, green chemistry, and a steadfast commitment to self-reliance. With a ₹650 crore expansion underway, the company is scaling from strength to strength, aiming to quadruple its manufacturing capacity and reshape India’s role in the global specialty chemicals market. At the heart of this transformation is Mr. Amitt Nenwani, Managing Director of Shivtek Spechemi, whose leadership blends operational rigor with visionary foresight. As the company charts its next phase, he reflects on a journey that began with just 400 MTPA and has now grown into a 1,50,000 MTPA chemical powerhouse.\r\n\r\nShivtek Spechemi Industries Ltd has grown from 400 MTPA to a cumulative capacity of 1,50,000 MTPA across three plants. Could you reflect on the early days of the company and key milestones that have defined your manufacturing journey?\r\nShivtek Spechemi Industries Ltd started its journey in 1987 with an initial capacity of just 400 MTPA, under the visionary leadership of Mr. Shiv Kumar Nenwani. The early operations were modest, centered around a limited range of plasticizer products. However, the foundation was built on quality, customer trust, and an ambition to scale with innovation. Throughout our manufacturing journey, several strategic milestones have shaped Shivtek’s evolution into a trusted name in the chemical industry. A critical turning point was the investment in our R&D infrastructure, which empowered us to understand and resolve customer-specific requirements, opening doors to new markets both in India and abroad. This was complemented by diversification of our product portfolio, including the addition of speciality chlorinated paraffins, high-percentage hydrochloric acid, and a range of specialty additives tailored to a broader industrial customer base.\r\n\r\nOur manufacturing footprint expanded with the commissioning of strategically located plants—our flagship facility in Dahej, Gujarat, now stands as the largest and most diversified with a capacity of 112,800 MTPA; the Kurnool plant in Andhra Pradesh serves the southern markets with 22,800 MTPA of specialty chemicals; and the Rajpura facility in Punjab caters to the additive chemistry needs of northern industrial clusters with a capacity of 14,400 MTPA. The company’s trajectory further accelerated through a vision rooted in sustainable innovation, backward integration, and export-oriented growth enabling Shivtek to reach new heights. \r\n\r\nToday, with a cumulative installed capacity of 1,50,000 MTPA, we stand as a testament to structured growth and operational excellence. Our global ambitions are reflected in our international footprint, as we remain among the few Indian chemical manufacturers exporting speciality hydrocarbon-based products to China—consistently meeting the highest standards of purity, performance, and regulatory compliance.\r\n\r\nSustainability has been a recurring theme in your recent announcements. What specific green manufacturing practices or technologies are currently being implemented, and how do they align with your long-term ESG goals?\r\nAt Shivtek Spechemi Industries Ltd, sustainability is not an added layer; it is deeply integrated into our manufacturing philosophy and operational processes. \r\n\r\nAs a responsible specialty chemical producer, we have adopted specific green practices that help us minimize environmental impact while driving long-term industrial efficiency.\r\n  •  Zero Waste and Resource Efficiency: Our plants operate on zero-liquid discharge (ZLD) principles, ensuring that no untreated effluent is released into the environment. We practice maximum material recovery during chlorination and blending operations to reduce chemical waste. Cooling water and wash streams are continuously recycled, reducing freshwater consumption significantly.\r\n  •  Emissions Control & Safe Disposal: Shivtek follows a closed-loop chemical processing system to minimize air exposure and reduce the emission of volatile compounds.\r\n  •  Greener Product Alternatives: Our flagship additive, Shivasol Lubrione, is engineered to reduce emissions and improve efficiency. When blended at 30–35%, it offers both cost and carbon savings. We are also developing green plasticizer alternatives and cleaner-grade CP variants that meet both performance and environmental benchmarks.\r\n  •  Energy-Efficient Operations: Across our plants, we use high-efficiency motors, automated control systems, and energy-optimized reaction setups to reduce power consumption. Process heat is recovered and reused through internal heat integration systems, which lowers overall energy demand.\r\n  •  Water and Air Monitoring: Online monitoring systems for air emissions and water discharge are installed at all operational plants, ensuring real-time tracking and compliance. We maintain ambient air quality within statutory limits, with regular third-party audits and monthly reporting.\r\n\r\nYour plants in Punjab, Andhra Pradesh, and Gujarat each contribute to your nationwide reach. Could you elaborate on the role of each facility and how you maintain operational consistency and sustainability across geographies?\r\nEach of our manufacturing units, Dahej in Gujarat, Kurnool in Andhra Pradesh, and Rajpura in Punjab, plays a pivotal role in ensuring Shivtek’s nationwide reach and operational efficiency. Dahej’s proximity to the port makes it ideal for international exports to western countries and inbound logistics. Kurnool supports demand in the Southern India Southeast region, while Rajpura anchors our presence in the north. Together, they contribute to our current installed capacity of 1,50,000 MTPA. To maintain consistency and sustainability across these geographies, we implement unified production protocols, cutting-edge zero-emission technologies, and robust quality assurance systems. This standardized approach, validated by a CRISIL A minus rating for three consecutive years, ensures seamless operations, minimal environmental impact, and the reliable delivery of high-quality products across all markets we serve.\r\n\r\nWith your venture into high-grade chlorinated compounds and other advanced derivatives, how do you view Shivtek Spechemi Industries Ltd’s role in reducing import dependency and strengthening India’s specialty chemicals footprint globally?\r\nOur foray into high-grade chlorinated compounds and other advanced derivatives represents a game-changing shift in India’s chemical manufacturing landscape. By producing these value-added chemicals domestically for the first time, Shivtek Spechemi is actively reducing the country’s dependency on costly imports while strengthening national self-reliance. This initiative is expected to result in an increase in production capacity and enable expansion in global market reach. These products not only fill a critical supply gap but also position India as a serious player in the global specialty chemicals arena. By aligning with the Make in India vision, we aim to drive technological advancement, improve export competitiveness, and establish Shivtek as a trusted name in world-class, sustainable chemical solutions.\r\n\r\nThe upcoming plants in Gujarat and Rajasthan mark a significant strategic expansion. What was the rationale behind choosing these specific locations, and what will set these plants apart in terms of technology, capacity, and market impact?\r\nThe upcoming plants in Gujarat and Rajasthan represent a significant strategic expansion for Shivtek Spechemi, driven by clear logistical, industrial, and market-oriented considerations. The Gujarat facility, strategically located near the Hazira port, offers cost-effective logistics and connectivity to both domestic and international markets. On the other hand, the Rajasthan plant has been selected for its strong industrial infrastructure and advantageous proximity to key distribution hubs in northern India. Together, these locations situated along the well-established Gujarat-Rajasthan corridor will allow for seamless supply chain integration, particularly beneficial to the textile and chemical ecosystem in the region. The new facilities will pioneer the domestic production of select high-grade chlorinated compound products that were previously imported, thereby contributing to national self-reliance and enhancing India’s chemical export capabilities. Additionally, the expansion will increase production capacity for caustic soda, chlorine, and high-demand derivatives such as chlorinated paraffin and chlorinated polyethylene.\r\n\r\nAnother core differentiator of these plants is their strong emphasis on green manufacturing. Shivtek remains committed to environment-friendly production processes, with plans to incorporate 250 MW of solar power into its operational energy mix. Furthermore, Shivtek’s proposed petrochemical plant near Hazira, Gujarat, will further extend its footprint in areas such as bio based additives, solvents, and specialty additives. This forward-looking investment aligns with the company’s long-term vision of sustainable innovation and sectoral leadership. With this expansion, Shivtek’s total manufacturing capacity will rise significantly from 1,50,000 MTPA to 6,50,000 MTPA, marking a substantial increase in scale and capability. This not only reinforces the company’s leadership in the specialty chemicals sector but also enhances its ability to deliver high-value, innovative, and sustainable solutions to customers across a broad range of industries, both in India and globally.\r\n\r\nLooking ahead, what is your vision for the Shivtek Spechemi Industries Ltd over the next decade in terms of capacity, market expansion, R&D focus, and global leadership?\r\nOver the next decade, Shivtek envisions becoming a global leader in specialty chemicals through sustainable innovation and strategic scale-up. We aim to scale-up our production capacity to 6,50,000 MTPA supported by our upcoming state-of-the-art facilities. Our market expansion strategy targets 4X growth across both domestic and international markets, with exports expected to reach over 75 countries. A significant focus will be placed on R&D, with plans to invest ₹650 crore into developing next-generation chemical solutions and green technologies. Our goal is to set new benchmarks in quality, sustainability, and global competitiveness across all key industry segments.\r\n\r\n",
+      "country": "India",
+      "created_at": "2025-06-27 04:29:26",
+      "created_by": "Admin",
+      "id": "685e1e26aee2dfa06d5544d7",
+      "image_caption": "Shivtek Spechem Industries Ltd. ",
+      "mob_image_url": "https://new-chemical-today.s3.amazonaws.com/News/From_400_to_6,50,000_MTPA_and_Beyond_with_Shivtek_Spechemi_Ind._Ltd._20250627042925/Amitt_Nenwani,_Managing_Director_of_Shivtek_Spechem_Industries_Ltd._.webp",
+      "news_type": "Plant Visit",
+      "published_by": "Chemical Today",
+      "published_date": "2025-06-19",
+      "thumbnail_image_url": "https://new-chemical-today.s3.amazonaws.com/News/From_400_to_6,50,000_MTPA_and_Beyond_with_Shivtek_Spechemi_Ind._Ltd._20250627042925/Amitt_Nenwani,_Managing_Director_of_Shivtek_Spechem_Industries_Ltd._.webp",
+      "title": "From 400 to 6,50,000 MTPA and Beyond with Shivtek Spechemi Industries Ltd",
+      "visibility": true,
+      "web_image_url": "https://new-chemical-today.s3.amazonaws.com/News/From_400_to_6,50,000_MTPA_and_Beyond_with_Shivtek_Spechemi_Ind._Ltd._20250627042925/Amitt_Nenwani,_Managing_Director_of_Shivtek_Spechem_Industries_Ltd._.webp"
+    }
+  },
+  "sustainabilitySection": {
+    "advt1": {
+      "advt_type": {
+        "height": 800,
+        "id": "6881f52eaee2dfa06d554631",
+        "name": "ENHESA Data Tech - Side Banner",
+        "width": 1600
+      },
+      "contact_number": "11111111111",
+      "description": ".........",
+      "id": "6881f572aee2dfa06d554632",
+      "image": "https://new-chemical-today.s3.amazonaws.com/advertisements/ENHESA Data Tech - Side Banner/ENHESA Data Tech - Side Banner/Website_banner_ad_800_240_1.jpeg",
+      "name": "ENHESA Data Tech - Side Banner",
+      "organization_name": "ENHESA Data Tech - Side Banner",
+      "redirect_url": "https://www.enhesadata.com/",
+      "subscription_end_date": "2025-07-24",
+      "subscription_start_date": "2025-07-24"
+    },
+    "advt2": {
+      "advt_type": {
+        "height": 400,
+        "id": "6880b126aee2dfa06d55461e",
+        "name": "Cphi & Pmec - Side banner ",
+        "width": 800
+      },
+      "contact_number": "11111111111",
+      "description": ".......",
+      "id": "6880b149aee2dfa06d55461f",
+      "image": "https://new-chemical-today.s3.amazonaws.com/advertisements/Cphi & Pmec - Side banner /Cphi & Pmec - Side banner /World-of-Chemicals-800x400.webp",
+      "name": "Cphi & Pmec - Side banner ",
+      "organization_name": "Cphi & Pmec - Side banner ",
+      "redirect_url": "https://frw.ad/pAeUN",
+      "subscription_end_date": "2025-08-23",
+      "subscription_start_date": "2025-07-23"
+    },
+    "advt3": {
+      "advt_type": {
+        "height": 818,
+        "id": "6880b197aee2dfa06d554620",
+        "name": "GCPMH - Side Banner",
+        "width": 1637
+      },
+      "contact_number": "11111111111",
+      "description": "...........",
+      "id": "6880bd7daee2dfa06d554622",
+      "image": "https://new-chemical-today.s3.amazonaws.com/advertisements/GCPMH - Side Banner/GCPMH - Side Banner/GCPMH_Banner_Ad_800x400_Bigsize_1_1.webp",
+      "name": "GCPMH - Side Banner",
+      "organization_name": "GCPMH - Side Banner",
+      "redirect_url": "https://www.gcpmh.in/",
+      "subscription_end_date": "2025-08-23",
+      "subscription_start_date": "2025-07-23"
+    },
+    "horizontal_banner": {
+      "advt_type": {
+        "height": 181,
+        "id": "66fa27adaee2dfa06d553838",
+        "name": "ct-trade",
+        "width": 2141
+      },
+      "contact_number": "11111111111",
+      "description": "....",
+      "id": "66fa2801aee2dfa06d553839",
+      "image": "https://new-chemical-today.s3.amazonaws.com/advertisements/ct-trade/ct-trade/ct_trade_horizontal_banner.jpg",
+      "name": "ct-trade",
+      "organization_name": "ct-trade",
+      "redirect_url": "https://chemicaltoday.in/",
+      "subscription_end_date": "2024-10-30",
+      "subscription_start_date": "2024-09-30"
+    },
+    "news1": {
+      "category": "None",
+      "content": " :  Carbon280 has launched its Hydrilyte® Technology Pilot Plant in Kwinana, Western Australia, after raising more than $16 million to advance its liquid hydrogen storage innovation. The project received $10.6 million in seed funding led by Woodside Energy, with backing from UK-based Hive Energy and a Singaporean family office. An additional $5.5 million in R&D rebates from the Australian Government is expected to support the development.\r\n\r\nAustralia’s hydrogen sector has faced delays due to rising costs and technical hurdles. Carbon280’s Hydrilyte® technology aims to ease one of the industry’s key challenges by allowing hydrogen to be stored safely at ambient temperature and pressure. This improves both economic viability and transport efficiency.\r\n\r\n“Solving one of the Biggest Challenges for the Hydrogen Industry – At Scale,” Mark Rheinlander, Founder & CEO of Carbon280, said, “Rather than transporting a highly flammable gas, you are storing and transporting a safe, low-cost liquid that stores hydrogen under ambient conditions. Low-cost and ease of handling will simplify and speed the implementation of hydrogen projects globally, enabling hydrogen use in applications and geographies with less sophisticated infrastructure.”\r\n\r\nThe pilot plant, a 100kW TRL6 prototype, will test Hydrilyte® at an industrial scale and generate performance data for partners and investors. Success would validate the technology, lowering costs for current hydrogen users while accelerating future projects such as green iron, synthetic aviation fuels, and methanol.\r\n\r\nHydrilyte® also enables the separation of hydrogen from helium, making it valuable for natural hydrogen developments. Since helium is difficult to separate due to its molecular similarity to hydrogen, the technology provides a single-step process that stores hydrogen for transport while monetising helium.\r\n\r\n“Natural hydrogen in combination with Hydrilyte® will be game-changing for the use of hydrogen across all industries, including energy, by slashing costs and simplifying handling,” continued Mark Rheinlander.\r\n\r\nBecause Hydrilyte® is a pumpable liquid, it can be stored and moved using existing liquid fuel infrastructure, including pipelines, ships, and tankers. The launch of the pilot facility is a step toward reducing investment risks in Australia’s hydrogen sector while offering a scalable, safe, and cost-efficient storage solution.\r\n",
+      "country": "Australia ",
+      "created_at": "2025-08-20 04:16:55",
+      "created_by": "Admin",
+      "id": "68a54c37aee2dfa06d554759",
+      "image_caption": "Source: Carbon280.  ",
+      "mob_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Carbon280_Launches_Breakthrough_Project_for_Hydrogen_and_Helium_Separation_20250820041655/Source:_Carbon280.__.webp",
+      "news_type": "Sustainability",
+      "published_by": "Chemical Today",
+      "published_date": "2025-08-20",
+      "thumbnail_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Carbon280_Launches_Breakthrough_Project_for_Hydrogen_and_Helium_Separation_20250820041655/Source:_Carbon280.__.webp",
+      "title": "Carbon280 Launches Breakthrough Project for Hydrogen and Helium Separation",
+      "visibility": true,
+      "web_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Carbon280_Launches_Breakthrough_Project_for_Hydrogen_and_Helium_Separation_20250820041655/Source:_Carbon280.__.webp"
+    },
+    "news2": {
+      "category": "None",
+      "content": " :  Hexagon Composites and Mitsui & Co., Ltd. have extended their Strategic Alliance Agreement until March 20, 2030, or until Mitsui’s shareholding in the company falls below a specified ratio. The agreement was signed in Oslo on August 12, 2025, by Philipp Schramm, CEO of Hexagon Composites, and Katsuto Kawahara, General Manager of the Functional Materials Division, Performance Materials Business Unit of Mitsui.\r\n\r\nMitsui has been a shareholder in Hexagon Composites since 2016, when the original strategic alliance agreement was signed. The partnership has focused on advancing composite technologies and supporting the adoption of clean energy solutions worldwide.\r\n\r\n“Mitsui’s support as a strategic partner and shareholder has been essential to the development of Hexagon,” said Philipp Schramm, CEO of Hexagon Composites. “Over the past decade, Mitsui’s industrial expertise and global reach have helped us set a benchmark in the industry and accelerate the adoption of alternative fuels. We look forward to continuing to leverage our synergies to drive the energy transition forward.”\r\n\r\n“We are pleased to have supported the growth of Hexagon Composites over the past decade. We believe in the long-term growth of the Group and with the renewed Strategic Alliance Agreement, we remain a strategic partner to Hexagon Composites,” said Katsuto Kawahara of Mitsui.\r\n\r\nMitsui currently holds 33,229,096 shares in Hexagon Composites, representing 15.8 percent of the company’s total shares.\r\n",
+      "country": "Japan",
+      "created_at": "2025-08-19 07:47:46",
+      "created_by": "Admin",
+      "id": "68a42c22aee2dfa06d554752",
+      "image_caption": "Source: Hexagon Composites.",
+      "mob_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Hexagon_Composites_Secures_Extended_Alliance_with_Mitsui_for_Clean_Energy_Growth_20250819074746/Source:_Hexagon_Composites..webp",
+      "news_type": "Sustainability",
+      "published_by": "Chemical Today",
+      "published_date": "2025-08-19",
+      "thumbnail_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Hexagon_Composites_Secures_Extended_Alliance_with_Mitsui_for_Clean_Energy_Growth_20250819074746/Source:_Hexagon_Composites..webp",
+      "title": "Hexagon Composites Secures Extended Alliance with Mitsui for Clean Energy Growth",
+      "visibility": true,
+      "web_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Hexagon_Composites_Secures_Extended_Alliance_with_Mitsui_for_Clean_Energy_Growth_20250819074746/Source:_Hexagon_Composites..webp"
+    },
+    "news3": {
+      "category": "None",
+      "content": " :  INEOS has released a statement following Greenpeace’s protest on the Forth Bridge, which targeted an ethane shipment bound for the company’s Grangemouth site.\r\n\r\nThe company said the protest, while intended to raise awareness of plastic pollution, does not contribute to solutions and could affect skilled jobs in Scotland. INEOS emphasized that it produces materials used in everyday applications such as drinking water pipes, medical equipment, insulation, lightweight vehicles, and wind turbine blades. It also noted that the safety harnesses used by the activists are made from plastics.\r\n\r\nThe shipment involved ethane gas, a by-product separated from natural gas in the United States before it can be used for heating. INEOS explained that the gas is converted into plastics designed to reduce emissions and waste, and added that imports are necessary as North Sea ethane is no longer available.\r\n\r\nAddressing calls for limits on plastic production, the company stated that reducing waste and improving recycling systems are more effective measures. “A cap does nothing if we don’t fix waste collection and recycling,” the statement said, adding that a cultural shift toward valuing plastics as recyclable resources is needed.\r\n\r\nINEOS highlighted its own investments in advanced recycling, circular design, and alternative feedstocks, noting that infrastructure projects are under development to address the issue. The statement concluded by affirming the company’s commitment to operate “safely, legally, and responsibly” while supporting British industry, energy security, and environmental initiatives.\r\n",
+      "country": "UK",
+      "created_at": "2025-08-18 11:02:16",
+      "created_by": "Admin",
+      "id": "68a30838aee2dfa06d554749",
+      "image_caption": "INEOS comments on Greenpeace protest in Scotland.",
+      "mob_image_url": "https://new-chemical-today.s3.amazonaws.com/News/INEOS_Outlines_Recycling_and_Circular_Design_Investments_amid_Ethane_Shipment_Debate_20250818110215/INEOS_comments_on_Greenpeace_protest_in_Scotland..webp",
+      "news_type": "Sustainability",
+      "published_by": "Chemical Today",
+      "published_date": "2025-08-18",
+      "thumbnail_image_url": "https://new-chemical-today.s3.amazonaws.com/News/INEOS_Outlines_Recycling_and_Circular_Design_Investments_amid_Ethane_Shipment_Debate_20250818110215/INEOS_comments_on_Greenpeace_protest_in_Scotland..webp",
+      "title": "INEOS Outlines Recycling and Circular Design Investments amid Ethane Shipment Debate",
+      "visibility": true,
+      "web_image_url": "https://new-chemical-today.s3.amazonaws.com/News/INEOS_Outlines_Recycling_and_Circular_Design_Investments_amid_Ethane_Shipment_Debate_20250818110215/INEOS_comments_on_Greenpeace_protest_in_Scotland..webp"
+    },
+    "news4": {
+      "category": "None",
+      "content": " :  L&T Energy GreenTech Ltd (LTEG) has signed a Joint Development Agreement with Japan’s ITOCHU Corporation to develop and commercialise a 300 KTPA green ammonia project in Kandla, Gujarat. The collaboration includes ITOCHU’s plan to offtake the ammonia for bunkering applications in Singapore, advancing clean fuel solutions for the maritime sector.\r\n\r\n“As the global energy landscape shifts decisively towards sustainability, L&T remains deeply committed to driving the clean energy transition through innovation, strategic partnerships, and engineering excellence,” said Mr Subramanian Sarma, Deputy Managing Director & President, L&T. “The partnership with ITOCHU reflects L&T’s larger vision of enabling a cleaner, greener future through sustainable business focus.”\r\n\r\nMr Hiroyuki Tsubai, Executive Vice President, Member of the Board, President, Machinery Company of ITOCHU Corporation, added: “Through this joint development with one of the largest and most respected companies in India’s private sector, L&T Group, our initiatives to introduce low-carbon ammonia to the maritime sector as an alternative zero-emission fuel will be reinforced. With this collaboration, Kandla, located on the west coast of India, will become the principal production centre of green ammonia for ITOCHU’s bunkering operations in Singapore.”\r\n\r\nIndia’s abundant renewable resources and competitive electricity costs position it strongly to lead in green hydrogen and its derivatives. The National Green Hydrogen Mission targets at least 5 MMTPA production capacity by 2030, with projected investments over USD 100 billion, expected to stimulate industrial innovation, create green jobs, and bolster energy security.\r\n",
+      "country": "India",
+      "created_at": "2025-08-14 07:22:20",
+      "created_by": "Admin",
+      "id": "689d8eacaee2dfa06d55472b",
+      "image_caption": "L&T Energy GreenTech and ITOCHU advance green ammonia production in India.",
+      "mob_image_url": "https://new-chemical-today.s3.amazonaws.com/News/L&T_and_ITOCHU_to_Collaborate_on_300_KPTA_Kandla_Ammonia_Plant_20250814072220/L&T_Energy_GreenTech_and_ITOCHU_advance_green_ammonia_production_in_India..webp",
+      "news_type": "Sustainability",
+      "published_by": "Chemical Today",
+      "published_date": "2025-08-14",
+      "thumbnail_image_url": "https://new-chemical-today.s3.amazonaws.com/News/L&T_and_ITOCHU_to_Collaborate_on_300_KPTA_Kandla_Ammonia_Plant_20250814072220/L&T_Energy_GreenTech_and_ITOCHU_advance_green_ammonia_production_in_India..webp",
+      "title": "L&T and ITOCHU to Collaborate on 300 KPTA Kandla Ammonia Plant",
+      "visibility": true,
+      "web_image_url": "https://new-chemical-today.s3.amazonaws.com/News/L&T_and_ITOCHU_to_Collaborate_on_300_KPTA_Kandla_Ammonia_Plant_20250814072220/L&T_Energy_GreenTech_and_ITOCHU_advance_green_ammonia_production_in_India..webp"
+    },
+    "news5": {
+      "category": "None",
+      "content": " :  On July 22, 2025, Oriental Consultants Global Co., Ltd. (OC Global) signed a Memorandum of Understanding with the City of Passo Fundo, Brazil, to support the construction of an on-site green ammonia facility. The agreement, signed in the presence of the University of Passo Fundo’s Rector and the City Council President, outlines municipal assistance, including partial funding for water infrastructure and access roads linked to the plant.\r\n\r\nThrough its subsidiary Oriental Consultants Global Do Brasil LTDA, OC Global has invested in Begreen Bioenergia e Fertilizants Sustentaveis Passo Fundo SPE S.A., which will oversee the plant’s production and sale of green ammonia. The facility will be located within the University campus and has secured all necessary environmental clearances under Brazil’s federal and local regulations. Local community engagement has been part of the process from the outset.\r\n\r\nOnce operational, part of the plant’s revenue will fund scholarships for the University’s master’s program in engineering, supporting both research and skills development. OC Global’s subsidiary and its partner Begreen H.D. are also members of TecnoAgro, a public–private–academic incubator based at the University, which has provided expertise for the project’s planning and execution.\r\n\r\nThe initiative aims to lower CO₂ emissions in Brazil’s agricultural sector, one of the world’s largest food producers. It is also expected to generate employment, increase tax revenues, and foster closer cooperation between academia, industry, and government.\r\n",
+      "country": "Brazil ",
+      "created_at": "2025-08-12 04:30:43",
+      "created_by": "Admin",
+      "id": "689ac373aee2dfa06d5546fc",
+      "image_caption": "OC Global partners with Passo Fundo for sustainable ammonia plant in Brazil.",
+      "mob_image_url": "https://new-chemical-today.s3.amazonaws.com/News/OC_Global_Invests_in_Green_Ammonia_Plant_to_Support_Brazil’s_Agriculture_Sector_20250812043043/OC_Global_partners_with_Passo_Fundo_for_sustainable_ammonia_plant_in_Brazil..webp",
+      "news_type": "Sustainability",
+      "published_by": "Chemical Today",
+      "published_date": "2025-08-12",
+      "thumbnail_image_url": "https://new-chemical-today.s3.amazonaws.com/News/OC_Global_Invests_in_Green_Ammonia_Plant_to_Support_Brazil’s_Agriculture_Sector_20250812043043/OC_Global_partners_with_Passo_Fundo_for_sustainable_ammonia_plant_in_Brazil..webp",
+      "title": "OC Global Invests in Green Ammonia Plant to Support Brazil’s Agriculture Sector",
+      "visibility": true,
+      "web_image_url": "https://new-chemical-today.s3.amazonaws.com/News/OC_Global_Invests_in_Green_Ammonia_Plant_to_Support_Brazil’s_Agriculture_Sector_20250812043043/OC_Global_partners_with_Passo_Fundo_for_sustainable_ammonia_plant_in_Brazil..webp"
+    },
+    "news6": {
+      "category": "None",
+      "content": " :  Fuji Electric Co., Ltd. (FE) and Mitsubishi Gas Chemical Company, Inc. (MGC) announced a joint study to develop and demonstrate a power generation system integrating fuel cells with hydrogen generators using methanol as feedstock. The initiative aims to combine both companies’ expertise to deliver hydrogen fuel cells suitable for various facilities and regions. \r\n\r\nThe study will assess the feasibility of commercializing a fuel cell system powered by hydrogen produced through the methanol-reforming process, with demonstrations targeted to begin by March 2027. The envisioned system will incorporate green methanol produced using MGC’s Carbopath™ environmental recycling platform, enabling the offset of CO₂ emissions generated during methanol reforming. \r\n\r\nPotential applications include backup power for data centers, factories, and other facilities, as well as systems designed to reduce peak loads. FE and MGC intend to expand market adoption by providing clean energy solutions to diverse regions. Hydrogen fuel cells are seen as a key contributor to green transformation, producing electricity from the chemical reaction of hydrogen and oxygen without direct emissions. \r\n\r\nMGC has promoted Carbopath™ to produce methanol from CO₂ and biomass, and has over four decades of experience in methanol-reforming technology. The company is also pursuing demonstration projects for unit-type hydrogen generators in Japan through partnerships with Methanol Reformer S.L. and Element 1® Corp.\r\n",
+      "country": "Japan",
+      "created_at": "2025-08-08 04:40:40",
+      "created_by": "Admin",
+      "id": "68957fc8aee2dfa06d5546df",
+      "image_caption": "Fuji Electric and MGC partner on methanol-based hydrogen fuel cell study (Source: Fuji Electric).",
+      "mob_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Fuji_Electric_and_MGC_Advance_Hydrogen_Fuel_Cell_Technology_for_Commercial_Use_20250808044040/Fuji_Electric_and_MGC_partner_on_methanol-based_hydrogen_fuel_cell_study_(Source:_Fuji_Electric)..webp",
+      "news_type": "Sustainability",
+      "published_by": "Chemical Today",
+      "published_date": "2025-08-08",
+      "thumbnail_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Fuji_Electric_and_MGC_Advance_Hydrogen_Fuel_Cell_Technology_for_Commercial_Use_20250808044040/Fuji_Electric_and_MGC_partner_on_methanol-based_hydrogen_fuel_cell_study_(Source:_Fuji_Electric)..webp",
+      "title": "Fuji Electric and MGC Advance Hydrogen Fuel Cell Technology for Commercial Use",
+      "visibility": true,
+      "web_image_url": "https://new-chemical-today.s3.amazonaws.com/News/Fuji_Electric_and_MGC_Advance_Hydrogen_Fuel_Cell_Technology_for_Commercial_Use_20250808044040/Fuji_Electric_and_MGC_partner_on_methanol-based_hydrogen_fuel_cell_study_(Source:_Fuji_Electric)..webp"
+    }
+  }
+}

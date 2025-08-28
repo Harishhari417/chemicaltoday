@@ -10,6 +10,7 @@ import Equipment from './Equipment';
 import Event from './Event';
 import Sustainability from './Sustainability';
 import Digitalization from './Digitalization';
+import ChemicalTodayPage from "./Spotlight"; 
 
 const Dashboard = () => {
   const [dashboardData, setDashboardData] = useState<DashboardData | null>(null);
@@ -74,6 +75,7 @@ const Dashboard = () => {
       <Event data={dashboardData} />
       <Sustainability data={dashboardData} />
       <Digitalization data={dashboardData} />
+       <ChemicalTodayPage data={dashboardData || undefined} />
     </div>
   );
 };
