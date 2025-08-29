@@ -6,6 +6,7 @@ interface Product {
   image: string;
   link?: string;
   published_date?: string;
+  published_by ?: string;
 }
 
 interface Advertisement {
@@ -57,9 +58,9 @@ const ProductPage: React.FC = () => {
 
   return (
     <div className="overflow-x-hidden">
-      <div className="h-auto ml-[5%] mr-[5%]">
+      <div className="h-auto ml-[5%] mr-[5%] mb-[0px]">
         {/* Header */}
-        <div className="flex items-center justify-between border-b border-gray-300 mb-0 pb-1">
+        <div className="flex items-center justify-between border-b border-gray-300 mb-0 pb-0">
           <h1 className="text-xl font-semibold text-black bg-gray-300 px-10 py-1 w-fit mb-0">
             Products
           </h1>
@@ -70,7 +71,7 @@ const ProductPage: React.FC = () => {
          <hr className="my-0 border-gray-300 w-full max-w-[1368px] mx-auto mt-[0px]" />
 
         {/* Main Grid */}
-        <div className="grid grid-cols-1 lg:grid-cols-5 gap-4 h-full mt-10">
+        <div className="grid grid-cols-1 lg:grid-cols-5 gap-4 h-full mt-5">
           {/* Left: Products */}
           <div className="lg:col-span-3 grid grid-cols-2 gap-6">
             {products.length > 0 ? (
@@ -78,20 +79,22 @@ const ProductPage: React.FC = () => {
                 <a
                   key={index}
                   href={product.link || "#"}
-                  className=" w-[406px] h-[200px] rounded-none border object-cover  p-3 transition"
+                  className=" w-auto h-auto rounded-none border object-cover px-0 py-0"
                 >
                   <img
                     src={product.image}
                     alt={product.title}
                     className="w-[406px] h-[200px] object-cover rounded-none"
                   />
+                  <span className="text-white bg-blue-600 text-sm px-1 py-1">
+                  {product.published_date}
+                </span>
                   <h2 className="text-lg font-semibold mt-2">
                     {product.title}
                   </h2>
-                  <p className="text-gray-600 text-sm">{product.description}</p>
-                  <span className="text-xs text-gray-500 block mt-1">
-                    {product.published_date}
-                  </span>
+                 <p className="text-gray-500 text-xs md:text-sm mt-1 px-2">
+                      {product.published_by || "Chemical Today"}
+                    </p>
                 </a>
               ))
             ) : (
@@ -112,7 +115,7 @@ const ProductPage: React.FC = () => {
                   <img
                     src={ad.image}
                     alt={ad.name}
-                    className="rounded-none shadow w-[400px] h-[200px] ml-[40px]"
+                    className="rounded-none shadow w-[400px] h-[200px] ml-[40px] mb-[10px]"
                   />
                 </a>
               ))
@@ -134,7 +137,7 @@ const ProductPage: React.FC = () => {
           <img
             src="https://new-chemical-today.s3.amazonaws.com/advertisements/Associate%20partner%20top%20banner/Associate%20partner%20top%20banner/Frame_230.jpg"
             alt="Our Knowledge Partner"
-            className="w-full h-[80px] md:h-[115px] object-cover"
+            className="w-[1368px] h-[115px] object-cover"
           />
         </a>
       </div>

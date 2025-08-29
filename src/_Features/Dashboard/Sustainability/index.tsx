@@ -33,9 +33,9 @@ const Sustainability: React.FC<SustainabilityProps> = ({ data }) => {
     : null;
 
   return (
-  <div className="min-h-screen bg-white text-black px-[5%] py-10 ">
+  <div className="min-h-screen bg-white text-black px-[5%] py-10 overflow-x-hidden ">
     {/* Section Heading */}
-    <div className="flex items-center justify-between border-b-200 pb-2 mb-0">
+    <div className="flex items-center justify-between border-b-200 pb-0 mb-0">
       <h1 className="text-2xl font-bold bg-gray-300 px-2 py-1 mb-0">Sustainability</h1>
       <a href="#" className="text-blue-600 hover:underline">
         View More &gt;&gt;

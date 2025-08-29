@@ -535,7 +535,7 @@
     },
     "horizontal_banner": [
       {
-        "advt_type": {
+        "advt_type_1": {
           "height": 546,
           "id": "688c5180aee2dfa06d55468b",
           "name": "quote-29",
@@ -552,7 +552,7 @@
         "subscription_start_date": "2025-08-01"
       },
       {
-        "advt_type": {
+        "advt_type_2": {
           "height": 546,
           "id": "688c518baee2dfa06d55468c",
           "name": "quote-30",
@@ -569,7 +569,7 @@
         "subscription_start_date": "2025-08-01"
       },
       {
-        "advt_type": {
+        "advt_type_3": {
           "height": 546,
           "id": "688c519aaee2dfa06d55468d",
           "name": "quote-31",
@@ -586,7 +586,7 @@
         "subscription_start_date": "2025-08-01"
       },
       {
-        "advt_type": {
+        "advt_type_4": {
           "height": 546,
           "id": "688c51b5aee2dfa06d55468e",
           "name": "quote-32",

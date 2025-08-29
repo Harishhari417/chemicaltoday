@@ -56,7 +56,7 @@ const Spotlight: React.FC<Props> = ({ data }) => {
   return (
     <div className="overflow-x-hidden">
       {/* Container with 5% spacing */}
-      <div className="mx-[5%] p-4 font-sans">
+      <div className="mx-[4%] p-4 font-sans">
         {/* Header */}
         <div className="flex justify-between items-center w-full max-w-[1368px] mx-auto">
           <h2 className="text-xl md:text-2xl font-semibold bg-gray-300 px-6 py-1">
@@ -129,13 +129,13 @@ const Spotlight: React.FC<Props> = ({ data }) => {
 
         {/* Full Width Banner */}
         {banner && banner.image && (
-          <div className="w-full max-w-[1368px] mx-auto mt-6">
+          <div className=" w-[1368px] mx-0 mt-6 ml-0">
             <div className="bg-white rounded-none shadow-sm overflow-hidden">
               <a href={banner.href} target="_blank" rel="noopener noreferrer">
                 <img
                   src={banner.image}
                   alt={banner.name}
-                  className="w-full h-[80px] md:h-[115px] object-cover"
+                  className="w-[1368px] h-[115px]  mx-0 px-0"
                 />
               </a>
             </div>
